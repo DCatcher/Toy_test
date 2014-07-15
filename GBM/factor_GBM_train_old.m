@@ -103,9 +103,6 @@ elseif isequal(pars.zeromask,'quadrature') % every hidden unit is connected to e
     end
     
     
-    
-    
-    
     pars.whf(zeroIndex) = 0; % test passed.
     
     if pars.zeromaskAdditional
@@ -300,7 +297,6 @@ end
         
         grad = [grad_wxf(:);grad_wyf(:);grad_whf(:);grady(:);gradh(:)];
     end
-
 end
 
 function defaultPars = factor_GBM_default_pars()

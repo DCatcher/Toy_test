@@ -1,4 +1,6 @@
 
+For GBM test, add yimeng's personal library first.
+
 DeepLearnToolbox
 ================
 

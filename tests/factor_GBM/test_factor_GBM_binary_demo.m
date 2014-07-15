@@ -18,4 +18,4 @@ visualize(pars.wxf);
 figure;
 visualize(pars.wyf);
 
-
+save('tmp_for_watch.mat', pars);

@@ -1,0 +1,5 @@
+test
+diary on;
+disp('adafdafsdfwefafsaf')
+adafdafsdfwefafsaf
+diary off

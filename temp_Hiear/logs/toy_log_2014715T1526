@@ -1,0 +1,99 @@
+epoch 1
+mean square error: 25.380000
+mean norm of w: 87.305910
+norm of inc: 0.235654
+mean square error: 25.030000
+mean norm of w: 87.303346
+norm of inc: 0.326321
+mean square error: 25.870000
+mean norm of w: 87.299974
+norm of inc: 0.346691
+mean square error: 24.990000
+mean norm of w: 87.296190
+norm of inc: 0.374259
+mean square error: 23.690000
+mean norm of w: 87.292561
+norm of inc: 0.394795
+mean square error: 22.395000
+mean norm of w: 87.289333
+norm of inc: 0.413375
+mean square error: 19.015000
+mean norm of w: 87.287161
+norm of inc: 0.455362
+mean square error: 16.100000
+mean norm of w: 87.286556
+norm of inc: 0.480923
+mean square error: 14.190000
+mean norm of w: 87.287387
+norm of inc: 0.492774
+mean square error: 13.350000
+mean norm of w: 87.289017
+norm of inc: 0.540335
+mean square error: 13.590000
+mean norm of w: 87.291250
+norm of inc: 0.526567
+mean square error: 13.620000
+mean norm of w: 87.295322
+norm of inc: 0.530526
+mean square error: 14.930000
+mean norm of w: 87.300630
+norm of inc: 0.582998
+mean square error: 16.175000
+mean norm of w: 87.306093
+norm of inc: 0.619574
+mean square error: 18.315000
+mean norm of w: 87.312623
+norm of inc: 0.587830
+mean square error: 18.570000
+mean norm of w: 87.320923
+norm of inc: 0.548334
+mean square error: 18.505000
+mean norm of w: 87.330736
+norm of inc: 0.558020
+mean square error: 15.505000
+mean norm of w: 87.341792
+norm of inc: 0.614912
+mean square error: 13.015000
+mean norm of w: 87.353417
+norm of inc: 0.626350
+mean square error: 12.630000
+mean norm of w: 87.366313
+norm of inc: 0.698781
+mean square error: 14.610000
+mean norm of w: 87.377198
+norm of inc: 0.760382
+mean square error: 19.210000
+mean norm of w: 87.388696
+norm of inc: 0.709422
+mean square error: 22.210000
+mean norm of w: 87.402556
+norm of inc: 0.636664
+mean square error: 23.810000
+mean norm of w: 87.418355
+norm of inc: 0.597664
+mean square error: 23.880000
+mean norm of w: 87.434302
+norm of inc: 0.596942
+mean square error: 22.375000
+mean norm of w: 87.449280
+norm of inc: 0.591149
+mean square error: 22.500000
+mean norm of w: 87.463270
+norm of inc: 0.603332
+{Operation terminated by user during
+<a href="matlab:helpUtils.errorDocCallback('factor_GBM_train/factor_GBM_train_inner', 'd:\matlab2012a\GBMs\from_ym\GBM\factor_GBM_train.m', 184)" style="font-weight:bold">factor_GBM_train/factor_GBM_train_inner</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\GBM\factor_GBM_train.m',184,0)">line 184</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('factor_GBM_train', 'd:\matlab2012a\GBMs\from_ym\GBM\factor_GBM_train.m', 142)" style="font-weight:bold">factor_GBM_train</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\GBM\factor_GBM_train.m',142,0)">line 142</a>)
+        factor_GBM_train_inner(); % here, I use a nested function for
+        efficieny issue.
+
+In <a href="matlab:helpUtils.errorDocCallback('temp_hiear_train', 'd:\matlab2012a\GBMS\from_ym\temp_Hiear\temp_hiear_train.m', 24)" style="font-weight:bold">temp_hiear_train</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMS\from_ym\temp_Hiear\temp_hiear_train.m',24,0)">line 24</a>)
+    layer1_13_pars     = factor_GBM_train(pars.train_data_f1, ...
+
+In <a href="matlab:helpUtils.errorDocCallback('temp_supresol', 'd:\matlab2012a\GBMS\from_ym\temp_Hiear\temp_supresol.m', 15)" style="font-weight:bold">temp_supresol</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMS\from_ym\temp_Hiear\temp_supresol.m',15,0)">line 15</a>)
+    pars    = temp_hiear_train(pars);
+} 
+close all
+clc
+temp_supresol('hiear')

@@ -1,0 +1,5440 @@
+epoch 1
+mean square error: 35.510000
+mean norm of w: 69.218211
+norm of inc: 0.184590
+mean square error: 33.015000
+mean norm of w: 69.216439
+norm of inc: 0.295995
+mean square error: 30.865000
+mean norm of w: 69.214968
+norm of inc: 0.322618
+mean square error: 27.310000
+mean norm of w: 69.213260
+norm of inc: 0.376151
+mean square error: 25.855000
+mean norm of w: 69.211206
+norm of inc: 0.444035
+mean square error: 25.360000
+mean norm of w: 69.210125
+norm of inc: 0.431622
+mean square error: 23.185000
+mean norm of w: 69.211476
+norm of inc: 0.441564
+mean square error: 19.995000
+mean norm of w: 69.214518
+norm of inc: 0.472980
+mean square error: 19.840000
+mean norm of w: 69.218909
+norm of inc: 0.480279
+mean square error: 21.335000
+mean norm of w: 69.224273
+norm of inc: 0.568991
+mean square error: 23.995000
+mean norm of w: 69.229685
+norm of inc: 0.518329
+mean square error: 25.640000
+mean norm of w: 69.237277
+norm of inc: 0.508348
+mean square error: 25.455000
+mean norm of w: 69.246726
+norm of inc: 0.497241
+mean square error: 23.570000
+mean norm of w: 69.257073
+norm of inc: 0.535665
+mean square error: 22.400000
+mean norm of w: 69.267243
+norm of inc: 0.536402
+mean square error: 22.130000
+mean norm of w: 69.278146
+norm of inc: 0.532835
+mean square error: 22.760000
+mean norm of w: 69.290255
+norm of inc: 0.531462
+mean square error: 20.805000
+mean norm of w: 69.304450
+norm of inc: 0.530034
+mean square error: 20.385000
+mean norm of w: 69.320401
+norm of inc: 0.536142
+mean square error: 18.725000
+mean norm of w: 69.337005
+norm of inc: 0.558313
+mean square error: 19.970000
+mean norm of w: 69.354171
+norm of inc: 0.542966
+mean square error: 22.490000
+mean norm of w: 69.372247
+norm of inc: 0.535326
+mean square error: 24.510000
+mean norm of w: 69.390953
+norm of inc: 0.534022
+mean square error: 26.225000
+mean norm of w: 69.409775
+norm of inc: 0.510786
+mean square error: 28.060000
+mean norm of w: 69.428781
+norm of inc: 0.488473
+mean square error: 30.690000
+mean norm of w: 69.447637
+norm of inc: 0.456567
+mean square error: 30.245000
+mean norm of w: 69.466374
+norm of inc: 0.447187
+mean square error: 29.700000
+mean norm of w: 69.484207
+norm of inc: 0.448415
+mean square error: 30.855000
+mean norm of w: 69.500917
+norm of inc: 0.432458
+mean square error: 29.955000
+mean norm of w: 69.516944
+norm of inc: 0.419991
+mean square error: 30.455000
+mean norm of w: 69.532768
+norm of inc: 0.413260
+mean square error: 28.930000
+mean norm of w: 69.548584
+norm of inc: 0.420505
+mean square error: 26.340000
+mean norm of w: 69.564532
+norm of inc: 0.447028
+mean square error: 22.955000
+mean norm of w: 69.580703
+norm of inc: 0.472670
+mean square error: 21.405000
+mean norm of w: 69.596305
+norm of inc: 0.499736
+mean square error: 20.400000
+mean norm of w: 69.611831
+norm of inc: 0.502753
+mean square error: 19.825000
+mean norm of w: 69.627918
+norm of inc: 0.518501
+mean square error: 19.320000
+mean norm of w: 69.645001
+norm of inc: 0.555584
+mean square error: 20.560000
+mean norm of w: 69.662210
+norm of inc: 0.510705
+mean square error: 21.470000
+mean norm of w: 69.680950
+norm of inc: 0.541048
+mean square error: 21.905000
+mean norm of w: 69.700418
+norm of inc: 0.541869
+mean square error: 25.930000
+mean norm of w: 69.719335
+norm of inc: 0.584891
+mean square error: 29.690000
+mean norm of w: 69.735893
+norm of inc: 0.592259
+mean square error: 33.390000
+mean norm of w: 69.751080
+norm of inc: 0.555775
+mean square error: 35.985000
+mean norm of w: 69.766742
+norm of inc: 0.502979
+epoch 2
+mean square error: 34.395000
+mean norm of w: 69.782422
+norm of inc: 0.476499
+mean square error: 32.015000
+mean norm of w: 69.798280
+norm of inc: 0.462254
+mean square error: 30.415000
+mean norm of w: 69.814467
+norm of inc: 0.462917
+mean square error: 27.965000
+mean norm of w: 69.829158
+norm of inc: 0.484310
+mean square error: 27.245000
+mean norm of w: 69.843386
+norm of inc: 0.481113
+mean square error: 25.825000
+mean norm of w: 69.857030
+norm of inc: 0.504145
+mean square error: 23.055000
+mean norm of w: 69.870135
+norm of inc: 0.515636
+mean square error: 21.765000
+mean norm of w: 69.883998
+norm of inc: 0.554402
+mean square error: 19.460000
+mean norm of w: 69.899167
+norm of inc: 0.588554
+mean square error: 20.545000
+mean norm of w: 69.915011
+norm of inc: 0.590718
+mean square error: 22.945000
+mean norm of w: 69.931732
+norm of inc: 0.589955
+mean square error: 24.905000
+mean norm of w: 69.949108
+norm of inc: 0.551713
+mean square error: 24.730000
+mean norm of w: 69.967639
+norm of inc: 0.541114
+mean square error: 23.665000
+mean norm of w: 69.987423
+norm of inc: 0.546577
+mean square error: 22.265000
+mean norm of w: 70.007345
+norm of inc: 0.554473
+mean square error: 21.470000
+mean norm of w: 70.026263
+norm of inc: 0.550043
+mean square error: 21.435000
+mean norm of w: 70.045688
+norm of inc: 0.541979
+mean square error: 21.260000
+mean norm of w: 70.065617
+norm of inc: 0.532357
+mean square error: 20.070000
+mean norm of w: 70.085436
+norm of inc: 0.567351
+mean square error: 18.870000
+mean norm of w: 70.104610
+norm of inc: 0.583104
+mean square error: 19.410000
+mean norm of w: 70.124249
+norm of inc: 0.625158
+mean square error: 22.260000
+mean norm of w: 70.143636
+norm of inc: 0.610662
+mean square error: 25.120000
+mean norm of w: 70.163201
+norm of inc: 0.574769
+mean square error: 27.995000
+mean norm of w: 70.183316
+norm of inc: 0.539677
+mean square error: 29.850000
+mean norm of w: 70.203587
+norm of inc: 0.513234
+mean square error: 29.985000
+mean norm of w: 70.223125
+norm of inc: 0.497668
+mean square error: 30.655000
+mean norm of w: 70.240900
+norm of inc: 0.475501
+mean square error: 31.635000
+mean norm of w: 70.257812
+norm of inc: 0.466360
+mean square error: 31.530000
+mean norm of w: 70.274340
+norm of inc: 0.454113
+mean square error: 30.125000
+mean norm of w: 70.290241
+norm of inc: 0.446393
+mean square error: 30.000000
+mean norm of w: 70.305260
+norm of inc: 0.443202
+mean square error: 29.455000
+mean norm of w: 70.320325
+norm of inc: 0.447980
+mean square error: 26.365000
+mean norm of w: 70.335787
+norm of inc: 0.456127
+mean square error: 23.755000
+mean norm of w: 70.351171
+norm of inc: 0.476659
+mean square error: 21.705000
+mean norm of w: 70.366261
+norm of inc: 0.490422
+mean square error: 19.935000
+mean norm of w: 70.381396
+norm of inc: 0.536403
+mean square error: 19.035000
+mean norm of w: 70.396636
+norm of inc: 0.531747
+mean square error: 19.750000
+mean norm of w: 70.412339
+norm of inc: 0.570560
+mean square error: 20.205000
+mean norm of w: 70.428459
+norm of inc: 0.571392
+mean square error: 21.015000
+mean norm of w: 70.445128
+norm of inc: 0.550223
+mean square error: 22.770000
+mean norm of w: 70.462498
+norm of inc: 0.556410
+mean square error: 24.605000
+mean norm of w: 70.480037
+norm of inc: 0.577075
+mean square error: 28.320000
+mean norm of w: 70.495297
+norm of inc: 0.584143
+mean square error: 32.710000
+mean norm of w: 70.509060
+norm of inc: 0.525192
+mean square error: 35.350000
+mean norm of w: 70.522353
+norm of inc: 0.496722
+epoch 3
+mean square error: 34.410000
+mean norm of w: 70.534948
+norm of inc: 0.475524
+mean square error: 31.720000
+mean norm of w: 70.547880
+norm of inc: 0.456671
+mean square error: 31.250000
+mean norm of w: 70.561222
+norm of inc: 0.454596
+mean square error: 28.630000
+mean norm of w: 70.574839
+norm of inc: 0.468804
+mean square error: 25.595000
+mean norm of w: 70.588177
+norm of inc: 0.509699
+mean square error: 25.245000
+mean norm of w: 70.600173
+norm of inc: 0.495445
+mean square error: 23.160000
+mean norm of w: 70.613095
+norm of inc: 0.512529
+mean square error: 20.925000
+mean norm of w: 70.627319
+norm of inc: 0.555087
+mean square error: 19.390000
+mean norm of w: 70.642413
+norm of inc: 0.563470
+mean square error: 20.885000
+mean norm of w: 70.657310
+norm of inc: 0.589520
+mean square error: 23.415000
+mean norm of w: 70.672211
+norm of inc: 0.560548
+mean square error: 25.220000
+mean norm of w: 70.687967
+norm of inc: 0.551378
+mean square error: 23.165000
+mean norm of w: 70.704587
+norm of inc: 0.532214
+mean square error: 22.940000
+mean norm of w: 70.721144
+norm of inc: 0.524195
+mean square error: 22.255000
+mean norm of w: 70.737722
+norm of inc: 0.534654
+mean square error: 21.450000
+mean norm of w: 70.753527
+norm of inc: 0.541222
+mean square error: 22.375000
+mean norm of w: 70.769387
+norm of inc: 0.540552
+mean square error: 21.545000
+mean norm of w: 70.786213
+norm of inc: 0.539896
+mean square error: 19.975000
+mean norm of w: 70.804535
+norm of inc: 0.564967
+mean square error: 18.115000
+mean norm of w: 70.823320
+norm of inc: 0.647978
+mean square error: 19.970000
+mean norm of w: 70.841427
+norm of inc: 0.571819
+mean square error: 22.965000
+mean norm of w: 70.861551
+norm of inc: 0.561378
+mean square error: 24.435000
+mean norm of w: 70.880809
+norm of inc: 0.561114
+mean square error: 26.160000
+mean norm of w: 70.899510
+norm of inc: 0.538342
+mean square error: 28.915000
+mean norm of w: 70.917943
+norm of inc: 0.501619
+mean square error: 29.550000
+mean norm of w: 70.935877
+norm of inc: 0.489983
+mean square error: 30.280000
+mean norm of w: 70.952624
+norm of inc: 0.476718
+mean square error: 30.310000
+mean norm of w: 70.968902
+norm of inc: 0.469003
+mean square error: 30.265000
+mean norm of w: 70.984834
+norm of inc: 0.463648
+mean square error: 29.150000
+mean norm of w: 71.000312
+norm of inc: 0.460310
+mean square error: 28.720000
+mean norm of w: 71.015720
+norm of inc: 0.448646
+mean square error: 27.870000
+mean norm of w: 71.030786
+norm of inc: 0.441198
+mean square error: 26.300000
+mean norm of w: 71.045571
+norm of inc: 0.450570
+mean square error: 23.445000
+mean norm of w: 71.060740
+norm of inc: 0.487223
+mean square error: 20.915000
+mean norm of w: 71.076117
+norm of inc: 0.516948
+mean square error: 19.825000
+mean norm of w: 71.091291
+norm of inc: 0.532307
+mean square error: 19.545000
+mean norm of w: 71.105529
+norm of inc: 0.545153
+mean square error: 19.040000
+mean norm of w: 71.120729
+norm of inc: 0.572106
+mean square error: 19.860000
+mean norm of w: 71.136547
+norm of inc: 0.589392
+mean square error: 21.155000
+mean norm of w: 71.152072
+norm of inc: 0.571347
+mean square error: 22.180000
+mean norm of w: 71.168685
+norm of inc: 0.560707
+mean square error: 24.455000
+mean norm of w: 71.185942
+norm of inc: 0.562088
+mean square error: 27.850000
+mean norm of w: 71.201898
+norm of inc: 0.603586
+mean square error: 30.990000
+mean norm of w: 71.216063
+norm of inc: 0.569028
+mean square error: 34.715000
+mean norm of w: 71.229928
+norm of inc: 0.537941
+epoch 4
+mean square error: 34.825000
+mean norm of w: 71.243144
+norm of inc: 0.509294
+mean square error: 33.645000
+mean norm of w: 71.256799
+norm of inc: 0.467148
+mean square error: 32.790000
+mean norm of w: 71.270464
+norm of inc: 0.459542
+mean square error: 30.895000
+mean norm of w: 71.283813
+norm of inc: 0.470708
+mean square error: 29.000000
+mean norm of w: 71.296239
+norm of inc: 0.483125
+mean square error: 26.655000
+mean norm of w: 71.307544
+norm of inc: 0.511480
+mean square error: 24.090000
+mean norm of w: 71.318490
+norm of inc: 0.532265
+mean square error: 22.200000
+mean norm of w: 71.329643
+norm of inc: 0.558240
+mean square error: 19.695000
+mean norm of w: 71.340786
+norm of inc: 0.603285
+mean square error: 20.820000
+mean norm of w: 71.351269
+norm of inc: 0.609541
+mean square error: 22.605000
+mean norm of w: 71.362417
+norm of inc: 0.617438
+mean square error: 24.705000
+mean norm of w: 71.374879
+norm of inc: 0.575714
+mean square error: 25.135000
+mean norm of w: 71.388410
+norm of inc: 0.565092
+mean square error: 24.055000
+mean norm of w: 71.402868
+norm of inc: 0.559688
+mean square error: 22.145000
+mean norm of w: 71.417895
+norm of inc: 0.573461
+mean square error: 20.990000
+mean norm of w: 71.431936
+norm of inc: 0.590101
+mean square error: 21.380000
+mean norm of w: 71.445123
+norm of inc: 0.561803
+mean square error: 21.835000
+mean norm of w: 71.459113
+norm of inc: 0.551294
+mean square error: 21.750000
+mean norm of w: 71.474236
+norm of inc: 0.571274
+mean square error: 18.935000
+mean norm of w: 71.490641
+norm of inc: 0.581317
+mean square error: 19.400000
+mean norm of w: 71.507162
+norm of inc: 0.697943
+mean square error: 24.130000
+mean norm of w: 71.521842
+norm of inc: 0.619376
+mean square error: 25.665000
+mean norm of w: 71.539618
+norm of inc: 0.574409
+mean square error: 26.625000
+mean norm of w: 71.558377
+norm of inc: 0.567881
+mean square error: 29.015000
+mean norm of w: 71.575595
+norm of inc: 0.537635
+mean square error: 30.815000
+mean norm of w: 71.592433
+norm of inc: 0.497642
+mean square error: 31.130000
+mean norm of w: 71.608938
+norm of inc: 0.478037
+mean square error: 31.735000
+mean norm of w: 71.624744
+norm of inc: 0.463839
+mean square error: 31.750000
+mean norm of w: 71.640065
+norm of inc: 0.458586
+mean square error: 30.595000
+mean norm of w: 71.654992
+norm of inc: 0.454077
+mean square error: 29.995000
+mean norm of w: 71.669126
+norm of inc: 0.471166
+mean square error: 27.920000
+mean norm of w: 71.682820
+norm of inc: 0.462335
+mean square error: 26.405000
+mean norm of w: 71.696078
+norm of inc: 0.475630
+mean square error: 23.590000
+mean norm of w: 71.709846
+norm of inc: 0.486974
+mean square error: 21.200000
+mean norm of w: 71.723885
+norm of inc: 0.516417
+mean square error: 19.700000
+mean norm of w: 71.737891
+norm of inc: 0.543808
+mean square error: 19.540000
+mean norm of w: 71.751638
+norm of inc: 0.561852
+mean square error: 19.635000
+mean norm of w: 71.765577
+norm of inc: 0.551627
+mean square error: 20.200000
+mean norm of w: 71.780500
+norm of inc: 0.564780
+mean square error: 19.155000
+mean norm of w: 71.795870
+norm of inc: 0.593371
+mean square error: 21.885000
+mean norm of w: 71.810137
+norm of inc: 0.580610
+mean square error: 25.715000
+mean norm of w: 71.824686
+norm of inc: 0.562040
+mean square error: 27.185000
+mean norm of w: 71.839603
+norm of inc: 0.543139
+mean square error: 30.405000
+mean norm of w: 71.853202
+norm of inc: 0.556913
+mean square error: 34.450000
+mean norm of w: 71.864716
+norm of inc: 0.522988
+epoch 5
+mean square error: 34.385000
+mean norm of w: 71.876031
+norm of inc: 0.486072
+mean square error: 34.180000
+mean norm of w: 71.887468
+norm of inc: 0.464352
+mean square error: 32.790000
+mean norm of w: 71.899794
+norm of inc: 0.459647
+mean square error: 29.040000
+mean norm of w: 71.912023
+norm of inc: 0.483746
+mean square error: 26.735000
+mean norm of w: 71.923872
+norm of inc: 0.513109
+mean square error: 25.595000
+mean norm of w: 71.935337
+norm of inc: 0.491579
+mean square error: 23.870000
+mean norm of w: 71.946535
+norm of inc: 0.513629
+mean square error: 21.995000
+mean norm of w: 71.957075
+norm of inc: 0.553233
+mean square error: 19.655000
+mean norm of w: 71.968884
+norm of inc: 0.563930
+mean square error: 19.595000
+mean norm of w: 71.981200
+norm of inc: 0.585382
+mean square error: 20.905000
+mean norm of w: 71.992926
+norm of inc: 0.611395
+mean square error: 24.890000
+mean norm of w: 72.005563
+norm of inc: 0.558405
+mean square error: 25.115000
+mean norm of w: 72.020214
+norm of inc: 0.540985
+mean square error: 23.810000
+mean norm of w: 72.035667
+norm of inc: 0.557113
+mean square error: 21.615000
+mean norm of w: 72.050796
+norm of inc: 0.579563
+mean square error: 20.940000
+mean norm of w: 72.065665
+norm of inc: 0.572903
+mean square error: 20.695000
+mean norm of w: 72.080764
+norm of inc: 0.569449
+mean square error: 20.770000
+mean norm of w: 72.095986
+norm of inc: 0.578671
+mean square error: 22.270000
+mean norm of w: 72.111610
+norm of inc: 0.564838
+mean square error: 20.365000
+mean norm of w: 72.128434
+norm of inc: 0.583722
+mean square error: 19.580000
+mean norm of w: 72.144333
+norm of inc: 0.643364
+mean square error: 20.965000
+mean norm of w: 72.159327
+norm of inc: 0.688706
+mean square error: 26.050000
+mean norm of w: 72.172456
+norm of inc: 0.610012
+mean square error: 29.395000
+mean norm of w: 72.187190
+norm of inc: 0.575730
+mean square error: 29.945000
+mean norm of w: 72.202468
+norm of inc: 0.548467
+mean square error: 30.330000
+mean norm of w: 72.217438
+norm of inc: 0.531595
+mean square error: 30.095000
+mean norm of w: 72.230762
+norm of inc: 0.531214
+mean square error: 31.360000
+mean norm of w: 72.243516
+norm of inc: 0.501878
+mean square error: 31.735000
+mean norm of w: 72.257018
+norm of inc: 0.479905
+mean square error: 30.440000
+mean norm of w: 72.270376
+norm of inc: 0.467715
+mean square error: 30.275000
+mean norm of w: 72.283149
+norm of inc: 0.472491
+mean square error: 28.130000
+mean norm of w: 72.295508
+norm of inc: 0.488307
+mean square error: 25.990000
+mean norm of w: 72.308042
+norm of inc: 0.488102
+mean square error: 22.670000
+mean norm of w: 72.321234
+norm of inc: 0.504838
+mean square error: 21.100000
+mean norm of w: 72.334944
+norm of inc: 0.531803
+mean square error: 20.390000
+mean norm of w: 72.348168
+norm of inc: 0.557290
+mean square error: 18.820000
+mean norm of w: 72.362029
+norm of inc: 0.556217
+mean square error: 18.585000
+mean norm of w: 72.376459
+norm of inc: 0.625223
+mean square error: 20.860000
+mean norm of w: 72.390526
+norm of inc: 0.592166
+mean square error: 20.860000
+mean norm of w: 72.406818
+norm of inc: 0.586413
+mean square error: 21.415000
+mean norm of w: 72.422873
+norm of inc: 0.607507
+mean square error: 24.600000
+mean norm of w: 72.438483
+norm of inc: 0.599970
+mean square error: 28.090000
+mean norm of w: 72.453935
+norm of inc: 0.572821
+mean square error: 30.780000
+mean norm of w: 72.468911
+norm of inc: 0.544811
+mean square error: 33.060000
+mean norm of w: 72.482824
+norm of inc: 0.513368
+epoch 6
+mean square error: 32.785000
+mean norm of w: 72.495847
+norm of inc: 0.488310
+mean square error: 31.550000
+mean norm of w: 72.507827
+norm of inc: 0.463726
+mean square error: 31.175000
+mean norm of w: 72.519964
+norm of inc: 0.453621
+mean square error: 29.685000
+mean norm of w: 72.532042
+norm of inc: 0.475871
+mean square error: 27.165000
+mean norm of w: 72.544602
+norm of inc: 0.496061
+mean square error: 25.765000
+mean norm of w: 72.556958
+norm of inc: 0.501157
+mean square error: 23.060000
+mean norm of w: 72.569311
+norm of inc: 0.520641
+mean square error: 21.260000
+mean norm of w: 72.582513
+norm of inc: 0.549650
+mean square error: 19.685000
+mean norm of w: 72.596850
+norm of inc: 0.564598
+mean square error: 18.985000
+mean norm of w: 72.611741
+norm of inc: 0.611379
+mean square error: 21.145000
+mean norm of w: 72.625996
+norm of inc: 0.631061
+mean square error: 25.130000
+mean norm of w: 72.640944
+norm of inc: 0.568044
+mean square error: 26.855000
+mean norm of w: 72.657131
+norm of inc: 0.537474
+mean square error: 25.310000
+mean norm of w: 72.673576
+norm of inc: 0.546231
+mean square error: 22.530000
+mean norm of w: 72.689733
+norm of inc: 0.593683
+mean square error: 21.180000
+mean norm of w: 72.704779
+norm of inc: 0.595074
+mean square error: 21.120000
+mean norm of w: 72.719462
+norm of inc: 0.595623
+mean square error: 21.790000
+mean norm of w: 72.734288
+norm of inc: 0.580330
+mean square error: 20.345000
+mean norm of w: 72.750058
+norm of inc: 0.576864
+mean square error: 19.430000
+mean norm of w: 72.765225
+norm of inc: 0.623034
+mean square error: 19.040000
+mean norm of w: 72.780525
+norm of inc: 0.618341
+mean square error: 21.040000
+mean norm of w: 72.796248
+norm of inc: 0.650666
+mean square error: 23.970000
+mean norm of w: 72.811269
+norm of inc: 0.608390
+mean square error: 28.010000
+mean norm of w: 72.826733
+norm of inc: 0.559048
+mean square error: 31.270000
+mean norm of w: 72.842300
+norm of inc: 0.541802
+mean square error: 29.225000
+mean norm of w: 72.857805
+norm of inc: 0.523733
+mean square error: 29.230000
+mean norm of w: 72.872626
+norm of inc: 0.508681
+mean square error: 30.110000
+mean norm of w: 72.886384
+norm of inc: 0.495880
+mean square error: 31.735000
+mean norm of w: 72.899568
+norm of inc: 0.468431
+mean square error: 31.100000
+mean norm of w: 72.913102
+norm of inc: 0.449039
+mean square error: 30.315000
+mean norm of w: 72.926187
+norm of inc: 0.451007
+mean square error: 27.695000
+mean norm of w: 72.938597
+norm of inc: 0.471169
+mean square error: 25.160000
+mean norm of w: 72.950324
+norm of inc: 0.481093
+mean square error: 24.280000
+mean norm of w: 72.961921
+norm of inc: 0.488726
+mean square error: 21.580000
+mean norm of w: 72.973328
+norm of inc: 0.548461
+mean square error: 18.700000
+mean norm of w: 72.984966
+norm of inc: 0.588601
+mean square error: 20.595000
+mean norm of w: 72.995496
+norm of inc: 0.548420
+mean square error: 19.690000
+mean norm of w: 73.007369
+norm of inc: 0.578303
+mean square error: 18.630000
+mean norm of w: 73.020261
+norm of inc: 0.608281
+mean square error: 20.125000
+mean norm of w: 73.032444
+norm of inc: 0.582902
+mean square error: 20.665000
+mean norm of w: 73.046421
+norm of inc: 0.569505
+mean square error: 24.140000
+mean norm of w: 73.061090
+norm of inc: 0.568312
+mean square error: 26.920000
+mean norm of w: 73.074701
+norm of inc: 0.563811
+mean square error: 30.665000
+mean norm of w: 73.087538
+norm of inc: 0.540054
+mean square error: 33.155000
+mean norm of w: 73.100145
+norm of inc: 0.510923
+epoch 7
+mean square error: 33.135000
+mean norm of w: 73.112633
+norm of inc: 0.482791
+mean square error: 31.055000
+mean norm of w: 73.124800
+norm of inc: 0.465973
+mean square error: 30.590000
+mean norm of w: 73.136602
+norm of inc: 0.462362
+mean square error: 29.075000
+mean norm of w: 73.147611
+norm of inc: 0.473473
+mean square error: 27.410000
+mean norm of w: 73.159175
+norm of inc: 0.492065
+mean square error: 24.580000
+mean norm of w: 73.171132
+norm of inc: 0.495938
+mean square error: 21.430000
+mean norm of w: 73.182773
+norm of inc: 0.508662
+mean square error: 20.140000
+mean norm of w: 73.194505
+norm of inc: 0.532092
+mean square error: 19.235000
+mean norm of w: 73.207519
+norm of inc: 0.551768
+mean square error: 18.390000
+mean norm of w: 73.221092
+norm of inc: 0.570913
+mean square error: 19.830000
+mean norm of w: 73.235073
+norm of inc: 0.610137
+mean square error: 23.540000
+mean norm of w: 73.247946
+norm of inc: 0.590037
+mean square error: 27.765000
+mean norm of w: 73.261205
+norm of inc: 0.556021
+mean square error: 26.385000
+mean norm of w: 73.276016
+norm of inc: 0.569057
+mean square error: 22.115000
+mean norm of w: 73.291828
+norm of inc: 0.579537
+mean square error: 19.750000
+mean norm of w: 73.306777
+norm of inc: 0.617698
+mean square error: 21.600000
+mean norm of w: 73.320828
+norm of inc: 0.570208
+mean square error: 21.655000
+mean norm of w: 73.335176
+norm of inc: 0.591916
+mean square error: 21.055000
+mean norm of w: 73.350330
+norm of inc: 0.586032
+mean square error: 18.415000
+mean norm of w: 73.366795
+norm of inc: 0.585160
+mean square error: 18.625000
+mean norm of w: 73.383065
+norm of inc: 0.639435
+mean square error: 20.820000
+mean norm of w: 73.398279
+norm of inc: 0.620929
+mean square error: 21.930000
+mean norm of w: 73.414494
+norm of inc: 0.622435
+mean square error: 26.780000
+mean norm of w: 73.430105
+norm of inc: 0.566799
+mean square error: 29.730000
+mean norm of w: 73.446215
+norm of inc: 0.518788
+mean square error: 31.065000
+mean norm of w: 73.462115
+norm of inc: 0.507118
+mean square error: 30.205000
+mean norm of w: 73.476976
+norm of inc: 0.490416
+mean square error: 28.990000
+mean norm of w: 73.491248
+norm of inc: 0.488733
+mean square error: 30.405000
+mean norm of w: 73.504356
+norm of inc: 0.480958
+mean square error: 30.005000
+mean norm of w: 73.517198
+norm of inc: 0.468487
+mean square error: 29.605000
+mean norm of w: 73.530609
+norm of inc: 0.446248
+mean square error: 28.160000
+mean norm of w: 73.544051
+norm of inc: 0.445823
+mean square error: 25.955000
+mean norm of w: 73.557051
+norm of inc: 0.468205
+mean square error: 23.380000
+mean norm of w: 73.570038
+norm of inc: 0.492041
+mean square error: 21.010000
+mean norm of w: 73.583595
+norm of inc: 0.524909
+mean square error: 18.635000
+mean norm of w: 73.597494
+norm of inc: 0.543614
+mean square error: 18.150000
+mean norm of w: 73.611756
+norm of inc: 0.630531
+mean square error: 19.835000
+mean norm of w: 73.625296
+norm of inc: 0.567820
+mean square error: 20.270000
+mean norm of w: 73.641032
+norm of inc: 0.587011
+mean square error: 18.765000
+mean norm of w: 73.657641
+norm of inc: 0.655621
+mean square error: 21.260000
+mean norm of w: 73.672826
+norm of inc: 0.598636
+mean square error: 24.440000
+mean norm of w: 73.689130
+norm of inc: 0.572665
+mean square error: 27.315000
+mean norm of w: 73.704631
+norm of inc: 0.591594
+mean square error: 29.325000
+mean norm of w: 73.718649
+norm of inc: 0.580958
+mean square error: 31.530000
+mean norm of w: 73.731317
+norm of inc: 0.546911
+epoch 8
+mean square error: 32.735000
+mean norm of w: 73.743270
+norm of inc: 0.514868
+mean square error: 31.870000
+mean norm of w: 73.755003
+norm of inc: 0.490074
+mean square error: 30.705000
+mean norm of w: 73.766932
+norm of inc: 0.474469
+mean square error: 28.675000
+mean norm of w: 73.778793
+norm of inc: 0.477316
+mean square error: 27.095000
+mean norm of w: 73.790154
+norm of inc: 0.504275
+mean square error: 24.025000
+mean norm of w: 73.801335
+norm of inc: 0.511083
+mean square error: 21.885000
+mean norm of w: 73.812288
+norm of inc: 0.524745
+mean square error: 21.200000
+mean norm of w: 73.823571
+norm of inc: 0.536381
+mean square error: 19.795000
+mean norm of w: 73.836193
+norm of inc: 0.561249
+mean square error: 18.880000
+mean norm of w: 73.848982
+norm of inc: 0.578073
+mean square error: 20.325000
+mean norm of w: 73.861524
+norm of inc: 0.612524
+mean square error: 22.890000
+mean norm of w: 73.873941
+norm of inc: 0.600478
+mean square error: 25.470000
+mean norm of w: 73.887110
+norm of inc: 0.572411
+mean square error: 24.575000
+mean norm of w: 73.901815
+norm of inc: 0.547623
+mean square error: 22.350000
+mean norm of w: 73.917383
+norm of inc: 0.563988
+mean square error: 19.915000
+mean norm of w: 73.932337
+norm of inc: 0.624347
+mean square error: 19.875000
+mean norm of w: 73.946129
+norm of inc: 0.601819
+mean square error: 21.775000
+mean norm of w: 73.960233
+norm of inc: 0.562484
+mean square error: 22.305000
+mean norm of w: 73.974771
+norm of inc: 0.569887
+mean square error: 21.395000
+mean norm of w: 73.989407
+norm of inc: 0.588841
+mean square error: 20.005000
+mean norm of w: 74.003654
+norm of inc: 0.617628
+mean square error: 20.355000
+mean norm of w: 74.018099
+norm of inc: 0.650216
+mean square error: 22.705000
+mean norm of w: 74.031690
+norm of inc: 0.664663
+mean square error: 27.285000
+mean norm of w: 74.045698
+norm of inc: 0.602874
+mean square error: 30.570000
+mean norm of w: 74.061277
+norm of inc: 0.552852
+mean square error: 30.355000
+mean norm of w: 74.077498
+norm of inc: 0.515849
+mean square error: 29.405000
+mean norm of w: 74.093120
+norm of inc: 0.493875
+mean square error: 29.435000
+mean norm of w: 74.107472
+norm of inc: 0.489702
+mean square error: 30.965000
+mean norm of w: 74.120387
+norm of inc: 0.473915
+mean square error: 30.895000
+mean norm of w: 74.132629
+norm of inc: 0.456976
+mean square error: 31.160000
+mean norm of w: 74.144527
+norm of inc: 0.456348
+mean square error: 28.285000
+mean norm of w: 74.156486
+norm of inc: 0.481888
+mean square error: 25.340000
+mean norm of w: 74.168570
+norm of inc: 0.503897
+mean square error: 23.800000
+mean norm of w: 74.180670
+norm of inc: 0.513976
+mean square error: 21.500000
+mean norm of w: 74.192365
+norm of inc: 0.538530
+mean square error: 19.430000
+mean norm of w: 74.204860
+norm of inc: 0.551405
+mean square error: 18.020000
+mean norm of w: 74.217264
+norm of inc: 0.606162
+mean square error: 18.615000
+mean norm of w: 74.229214
+norm of inc: 0.593911
+mean square error: 20.885000
+mean norm of w: 74.241987
+norm of inc: 0.586711
+mean square error: 19.835000
+mean norm of w: 74.256313
+norm of inc: 0.591589
+mean square error: 19.605000
+mean norm of w: 74.271384
+norm of inc: 0.650271
+mean square error: 24.050000
+mean norm of w: 74.283875
+norm of inc: 0.603821
+mean square error: 28.545000
+mean norm of w: 74.297864
+norm of inc: 0.549488
+mean square error: 30.710000
+mean norm of w: 74.311969
+norm of inc: 0.517946
+mean square error: 32.020000
+mean norm of w: 74.324587
+norm of inc: 0.515787
+epoch 9
+mean square error: 31.810000
+mean norm of w: 74.335374
+norm of inc: 0.492634
+mean square error: 30.915000
+mean norm of w: 74.345918
+norm of inc: 0.467870
+mean square error: 31.540000
+mean norm of w: 74.356539
+norm of inc: 0.458263
+mean square error: 28.585000
+mean norm of w: 74.367387
+norm of inc: 0.459654
+mean square error: 26.010000
+mean norm of w: 74.378180
+norm of inc: 0.478895
+mean square error: 24.260000
+mean norm of w: 74.388427
+norm of inc: 0.503806
+mean square error: 21.735000
+mean norm of w: 74.398668
+norm of inc: 0.521248
+mean square error: 19.725000
+mean norm of w: 74.410468
+norm of inc: 0.536467
+mean square error: 19.005000
+mean norm of w: 74.422695
+norm of inc: 0.545243
+mean square error: 18.480000
+mean norm of w: 74.435908
+norm of inc: 0.576430
+mean square error: 19.965000
+mean norm of w: 74.448453
+norm of inc: 0.596660
+mean square error: 22.320000
+mean norm of w: 74.460876
+norm of inc: 0.586444
+mean square error: 24.270000
+mean norm of w: 74.474129
+norm of inc: 0.555482
+mean square error: 24.685000
+mean norm of w: 74.488486
+norm of inc: 0.561985
+mean square error: 21.410000
+mean norm of w: 74.503130
+norm of inc: 0.583164
+mean square error: 19.480000
+mean norm of w: 74.517650
+norm of inc: 0.595715
+mean square error: 19.340000
+mean norm of w: 74.532089
+norm of inc: 0.629729
+mean square error: 20.965000
+mean norm of w: 74.545089
+norm of inc: 0.587468
+mean square error: 22.525000
+mean norm of w: 74.559139
+norm of inc: 0.575049
+mean square error: 21.080000
+mean norm of w: 74.574750
+norm of inc: 0.587637
+mean square error: 19.100000
+mean norm of w: 74.590524
+norm of inc: 0.624667
+mean square error: 19.505000
+mean norm of w: 74.605966
+norm of inc: 0.619649
+mean square error: 21.430000
+mean norm of w: 74.620796
+norm of inc: 0.622969
+mean square error: 25.670000
+mean norm of w: 74.634686
+norm of inc: 0.613762
+mean square error: 30.080000
+mean norm of w: 74.649130
+norm of inc: 0.559195
+mean square error: 32.050000
+mean norm of w: 74.664007
+norm of inc: 0.536729
+mean square error: 29.310000
+mean norm of w: 74.678520
+norm of inc: 0.509550
+mean square error: 29.500000
+mean norm of w: 74.692312
+norm of inc: 0.496713
+mean square error: 29.995000
+mean norm of w: 74.704974
+norm of inc: 0.499551
+mean square error: 29.725000
+mean norm of w: 74.716468
+norm of inc: 0.493716
+mean square error: 29.825000
+mean norm of w: 74.727933
+norm of inc: 0.476215
+mean square error: 28.785000
+mean norm of w: 74.739801
+norm of inc: 0.470384
+mean square error: 26.535000
+mean norm of w: 74.751996
+norm of inc: 0.485935
+mean square error: 23.615000
+mean norm of w: 74.764138
+norm of inc: 0.511242
+mean square error: 20.830000
+mean norm of w: 74.776369
+norm of inc: 0.529944
+mean square error: 18.430000
+mean norm of w: 74.789027
+norm of inc: 0.547610
+mean square error: 17.520000
+mean norm of w: 74.802151
+norm of inc: 0.561388
+mean square error: 16.985000
+mean norm of w: 74.816065
+norm of inc: 0.589727
+mean square error: 19.870000
+mean norm of w: 74.829019
+norm of inc: 0.575913
+mean square error: 19.910000
+mean norm of w: 74.843018
+norm of inc: 0.571635
+mean square error: 20.160000
+mean norm of w: 74.858111
+norm of inc: 0.579157
+mean square error: 22.345000
+mean norm of w: 74.872730
+norm of inc: 0.683317
+mean square error: 27.140000
+mean norm of w: 74.884864
+norm of inc: 0.615497
+mean square error: 31.910000
+mean norm of w: 74.898595
+norm of inc: 0.567620
+mean square error: 33.745000
+mean norm of w: 74.912633
+norm of inc: 0.534089
+epoch 10
+mean square error: 32.615000
+mean norm of w: 74.926365
+norm of inc: 0.507884
+mean square error: 31.030000
+mean norm of w: 74.939244
+norm of inc: 0.485770
+mean square error: 30.615000
+mean norm of w: 74.951309
+norm of inc: 0.478059
+mean square error: 29.250000
+mean norm of w: 74.962596
+norm of inc: 0.477274
+mean square error: 27.990000
+mean norm of w: 74.973053
+norm of inc: 0.483232
+mean square error: 25.315000
+mean norm of w: 74.983236
+norm of inc: 0.507432
+mean square error: 21.485000
+mean norm of w: 74.993757
+norm of inc: 0.548890
+mean square error: 19.945000
+mean norm of w: 75.004852
+norm of inc: 0.569429
+mean square error: 19.285000
+mean norm of w: 75.016541
+norm of inc: 0.570282
+mean square error: 18.505000
+mean norm of w: 75.028500
+norm of inc: 0.580625
+mean square error: 18.950000
+mean norm of w: 75.041278
+norm of inc: 0.650271
+mean square error: 21.930000
+mean norm of w: 75.053230
+norm of inc: 0.594828
+mean square error: 24.890000
+mean norm of w: 75.066879
+norm of inc: 0.553541
+mean square error: 25.575000
+mean norm of w: 75.081431
+norm of inc: 0.563926
+mean square error: 21.995000
+mean norm of w: 75.096952
+norm of inc: 0.572497
+mean square error: 19.510000
+mean norm of w: 75.111645
+norm of inc: 0.604070
+mean square error: 19.265000
+mean norm of w: 75.125089
+norm of inc: 0.613246
+mean square error: 20.350000
+mean norm of w: 75.138427
+norm of inc: 0.589430
+mean square error: 21.950000
+mean norm of w: 75.152195
+norm of inc: 0.581357
+mean square error: 21.240000
+mean norm of w: 75.167645
+norm of inc: 0.595144
+mean square error: 18.620000
+mean norm of w: 75.184416
+norm of inc: 0.593837
+mean square error: 19.135000
+mean norm of w: 75.200192
+norm of inc: 0.641525
+mean square error: 20.950000
+mean norm of w: 75.214280
+norm of inc: 0.652840
+mean square error: 25.145000
+mean norm of w: 75.228509
+norm of inc: 0.621803
+mean square error: 28.165000
+mean norm of w: 75.243885
+norm of inc: 0.562028
+mean square error: 30.715000
+mean norm of w: 75.259665
+norm of inc: 0.519617
+mean square error: 30.520000
+mean norm of w: 75.274193
+norm of inc: 0.511778
+mean square error: 29.755000
+mean norm of w: 75.288105
+norm of inc: 0.498513
+mean square error: 29.695000
+mean norm of w: 75.301133
+norm of inc: 0.481669
+mean square error: 29.200000
+mean norm of w: 75.312922
+norm of inc: 0.483136
+mean square error: 29.735000
+mean norm of w: 75.324194
+norm of inc: 0.464276
+mean square error: 28.685000
+mean norm of w: 75.335626
+norm of inc: 0.469016
+mean square error: 26.500000
+mean norm of w: 75.347168
+norm of inc: 0.477577
+mean square error: 23.930000
+mean norm of w: 75.358919
+norm of inc: 0.503212
+mean square error: 20.515000
+mean norm of w: 75.370594
+norm of inc: 0.530809
+mean square error: 19.630000
+mean norm of w: 75.382233
+norm of inc: 0.558165
+mean square error: 17.405000
+mean norm of w: 75.394010
+norm of inc: 0.586866
+mean square error: 17.065000
+mean norm of w: 75.405355
+norm of inc: 0.621427
+mean square error: 19.790000
+mean norm of w: 75.417016
+norm of inc: 0.595436
+mean square error: 20.115000
+mean norm of w: 75.430490
+norm of inc: 0.601011
+mean square error: 19.260000
+mean norm of w: 75.445284
+norm of inc: 0.615919
+mean square error: 22.610000
+mean norm of w: 75.459298
+norm of inc: 0.626787
+mean square error: 25.285000
+mean norm of w: 75.473399
+norm of inc: 0.617775
+mean square error: 29.475000
+mean norm of w: 75.487156
+norm of inc: 0.577238
+mean square error: 33.380000
+mean norm of w: 75.500569
+norm of inc: 0.538122
+epoch 11
+mean square error: 32.675000
+mean norm of w: 75.513412
+norm of inc: 0.518681
+mean square error: 31.500000
+mean norm of w: 75.525892
+norm of inc: 0.496992
+mean square error: 30.220000
+mean norm of w: 75.537954
+norm of inc: 0.491382
+mean square error: 28.495000
+mean norm of w: 75.549353
+norm of inc: 0.493158
+mean square error: 27.210000
+mean norm of w: 75.559946
+norm of inc: 0.497364
+mean square error: 25.315000
+mean norm of w: 75.570006
+norm of inc: 0.507113
+mean square error: 21.805000
+mean norm of w: 75.579593
+norm of inc: 0.545756
+mean square error: 20.260000
+mean norm of w: 75.589494
+norm of inc: 0.560733
+mean square error: 18.895000
+mean norm of w: 75.600957
+norm of inc: 0.583072
+mean square error: 18.015000
+mean norm of w: 75.612749
+norm of inc: 0.605960
+mean square error: 19.590000
+mean norm of w: 75.624504
+norm of inc: 0.601725
+mean square error: 21.195000
+mean norm of w: 75.636676
+norm of inc: 0.613696
+mean square error: 23.790000
+mean norm of w: 75.648917
+norm of inc: 0.577235
+mean square error: 25.060000
+mean norm of w: 75.662360
+norm of inc: 0.565442
+mean square error: 22.855000
+mean norm of w: 75.676661
+norm of inc: 0.576796
+mean square error: 20.185000
+mean norm of w: 75.691159
+norm of inc: 0.596641
+mean square error: 19.450000
+mean norm of w: 75.705889
+norm of inc: 0.609798
+mean square error: 19.330000
+mean norm of w: 75.719807
+norm of inc: 0.607572
+mean square error: 21.590000
+mean norm of w: 75.733250
+norm of inc: 0.588274
+mean square error: 20.470000
+mean norm of w: 75.747796
+norm of inc: 0.599868
+mean square error: 18.920000
+mean norm of w: 75.763223
+norm of inc: 0.605065
+mean square error: 19.855000
+mean norm of w: 75.778175
+norm of inc: 0.636359
+mean square error: 21.750000
+mean norm of w: 75.792674
+norm of inc: 0.621484
+mean square error: 24.745000
+mean norm of w: 75.807535
+norm of inc: 0.591415
+mean square error: 28.220000
+mean norm of w: 75.822476
+norm of inc: 0.558975
+mean square error: 30.455000
+mean norm of w: 75.837014
+norm of inc: 0.532149
+mean square error: 29.645000
+mean norm of w: 75.851270
+norm of inc: 0.501020
+mean square error: 30.420000
+mean norm of w: 75.865191
+norm of inc: 0.476050
+mean square error: 30.190000
+mean norm of w: 75.878508
+norm of inc: 0.471732
+mean square error: 28.570000
+mean norm of w: 75.891085
+norm of inc: 0.474049
+mean square error: 29.505000
+mean norm of w: 75.902740
+norm of inc: 0.463759
+mean square error: 28.625000
+mean norm of w: 75.914263
+norm of inc: 0.475241
+mean square error: 25.895000
+mean norm of w: 75.926336
+norm of inc: 0.498143
+mean square error: 22.595000
+mean norm of w: 75.939374
+norm of inc: 0.513036
+mean square error: 18.900000
+mean norm of w: 75.952575
+norm of inc: 0.522491
+mean square error: 18.915000
+mean norm of w: 75.965119
+norm of inc: 0.533176
+mean square error: 17.520000
+mean norm of w: 75.978117
+norm of inc: 0.551704
+mean square error: 16.665000
+mean norm of w: 75.991699
+norm of inc: 0.601406
+mean square error: 18.825000
+mean norm of w: 76.004823
+norm of inc: 0.591987
+mean square error: 19.525000
+mean norm of w: 76.018228
+norm of inc: 0.579597
+mean square error: 19.355000
+mean norm of w: 76.033424
+norm of inc: 0.592469
+mean square error: 20.700000
+mean norm of w: 76.048344
+norm of inc: 0.650795
+mean square error: 25.220000
+mean norm of w: 76.061285
+norm of inc: 0.646815
+mean square error: 30.280000
+mean norm of w: 76.073743
+norm of inc: 0.580595
+mean square error: 33.925000
+mean norm of w: 76.086582
+norm of inc: 0.538964
+epoch 12
+mean square error: 33.085000
+mean norm of w: 76.098770
+norm of inc: 0.526729
+mean square error: 31.215000
+mean norm of w: 76.110522
+norm of inc: 0.497360
+mean square error: 30.170000
+mean norm of w: 76.121910
+norm of inc: 0.490073
+mean square error: 28.220000
+mean norm of w: 76.131970
+norm of inc: 0.506806
+mean square error: 27.030000
+mean norm of w: 76.141272
+norm of inc: 0.507644
+mean square error: 24.885000
+mean norm of w: 76.150585
+norm of inc: 0.504572
+mean square error: 20.795000
+mean norm of w: 76.159531
+norm of inc: 0.528615
+mean square error: 19.665000
+mean norm of w: 76.168159
+norm of inc: 0.550170
+mean square error: 18.490000
+mean norm of w: 76.177930
+norm of inc: 0.579167
+mean square error: 17.695000
+mean norm of w: 76.188836
+norm of inc: 0.584430
+mean square error: 18.965000
+mean norm of w: 76.199931
+norm of inc: 0.642402
+mean square error: 21.145000
+mean norm of w: 76.211177
+norm of inc: 0.593102
+mean square error: 23.410000
+mean norm of w: 76.223749
+norm of inc: 0.573097
+mean square error: 23.170000
+mean norm of w: 76.236837
+norm of inc: 0.575666
+mean square error: 21.835000
+mean norm of w: 76.250348
+norm of inc: 0.567528
+mean square error: 19.865000
+mean norm of w: 76.263780
+norm of inc: 0.586312
+mean square error: 18.650000
+mean norm of w: 76.277373
+norm of inc: 0.594679
+mean square error: 20.240000
+mean norm of w: 76.289959
+norm of inc: 0.596645
+mean square error: 21.655000
+mean norm of w: 76.303001
+norm of inc: 0.580099
+mean square error: 19.950000
+mean norm of w: 76.317022
+norm of inc: 0.603857
+mean square error: 18.365000
+mean norm of w: 76.332416
+norm of inc: 0.619612
+mean square error: 18.685000
+mean norm of w: 76.348257
+norm of inc: 0.604551
+mean square error: 20.325000
+mean norm of w: 76.363872
+norm of inc: 0.644608
+mean square error: 25.050000
+mean norm of w: 76.377694
+norm of inc: 0.608056
+mean square error: 30.255000
+mean norm of w: 76.391817
+norm of inc: 0.556706
+mean square error: 30.700000
+mean norm of w: 76.406027
+norm of inc: 0.535857
+mean square error: 30.000000
+mean norm of w: 76.419655
+norm of inc: 0.521873
+mean square error: 28.925000
+mean norm of w: 76.432530
+norm of inc: 0.509319
+mean square error: 29.390000
+mean norm of w: 76.444507
+norm of inc: 0.501608
+mean square error: 29.405000
+mean norm of w: 76.455733
+norm of inc: 0.480666
+mean square error: 29.705000
+mean norm of w: 76.467019
+norm of inc: 0.473561
+mean square error: 28.680000
+mean norm of w: 76.478504
+norm of inc: 0.475219
+mean square error: 26.925000
+mean norm of w: 76.490289
+norm of inc: 0.494792
+mean square error: 23.740000
+mean norm of w: 76.502221
+norm of inc: 0.514262
+mean square error: 20.985000
+mean norm of w: 76.514272
+norm of inc: 0.552516
+mean square error: 18.380000
+mean norm of w: 76.526391
+norm of inc: 0.585152
+mean square error: 18.130000
+mean norm of w: 76.537651
+norm of inc: 0.591732
+mean square error: 17.385000
+mean norm of w: 76.549790
+norm of inc: 0.604744
+mean square error: 17.445000
+mean norm of w: 76.562546
+norm of inc: 0.621402
+mean square error: 18.300000
+mean norm of w: 76.574822
+norm of inc: 0.611710
+mean square error: 19.920000
+mean norm of w: 76.587358
+norm of inc: 0.605870
+mean square error: 22.090000
+mean norm of w: 76.600618
+norm of inc: 0.598360
+mean square error: 23.755000
+mean norm of w: 76.613593
+norm of inc: 0.677917
+mean square error: 28.970000
+mean norm of w: 76.623587
+norm of inc: 0.617062
+mean square error: 34.145000
+mean norm of w: 76.634729
+norm of inc: 0.572576
+epoch 13
+mean square error: 33.650000
+mean norm of w: 76.645847
+norm of inc: 0.529167
+mean square error: 31.665000
+mean norm of w: 76.657252
+norm of inc: 0.498128
+mean square error: 30.205000
+mean norm of w: 76.668407
+norm of inc: 0.515930
+mean square error: 28.595000
+mean norm of w: 76.678212
+norm of inc: 0.517720
+mean square error: 29.125000
+mean norm of w: 76.688124
+norm of inc: 0.499608
+mean square error: 26.710000
+mean norm of w: 76.697852
+norm of inc: 0.518618
+mean square error: 21.710000
+mean norm of w: 76.707483
+norm of inc: 0.536983
+mean square error: 20.700000
+mean norm of w: 76.716826
+norm of inc: 0.565066
+mean square error: 18.960000
+mean norm of w: 76.726690
+norm of inc: 0.586248
+mean square error: 18.580000
+mean norm of w: 76.738248
+norm of inc: 0.585665
+mean square error: 18.230000
+mean norm of w: 76.749894
+norm of inc: 0.612149
+mean square error: 20.960000
+mean norm of w: 76.761386
+norm of inc: 0.636184
+mean square error: 23.175000
+mean norm of w: 76.772773
+norm of inc: 0.599173
+mean square error: 24.775000
+mean norm of w: 76.785516
+norm of inc: 0.572747
+mean square error: 22.470000
+mean norm of w: 76.799034
+norm of inc: 0.583467
+mean square error: 19.440000
+mean norm of w: 76.812006
+norm of inc: 0.605975
+mean square error: 17.970000
+mean norm of w: 76.824481
+norm of inc: 0.611551
+mean square error: 19.035000
+mean norm of w: 76.836351
+norm of inc: 0.604426
+mean square error: 20.195000
+mean norm of w: 76.848382
+norm of inc: 0.597349
+mean square error: 21.005000
+mean norm of w: 76.861254
+norm of inc: 0.586944
+mean square error: 19.975000
+mean norm of w: 76.875350
+norm of inc: 0.584183
+mean square error: 19.270000
+mean norm of w: 76.889662
+norm of inc: 0.602628
+mean square error: 20.025000
+mean norm of w: 76.903239
+norm of inc: 0.647052
+mean square error: 23.005000
+mean norm of w: 76.916108
+norm of inc: 0.651037
+mean square error: 28.130000
+mean norm of w: 76.928872
+norm of inc: 0.593507
+mean square error: 31.480000
+mean norm of w: 76.942499
+norm of inc: 0.543144
+mean square error: 31.270000
+mean norm of w: 76.956382
+norm of inc: 0.525050
+mean square error: 30.845000
+mean norm of w: 76.969762
+norm of inc: 0.503925
+mean square error: 29.995000
+mean norm of w: 76.982777
+norm of inc: 0.501225
+mean square error: 29.285000
+mean norm of w: 76.994371
+norm of inc: 0.500857
+mean square error: 29.905000
+mean norm of w: 77.005560
+norm of inc: 0.478466
+mean square error: 29.065000
+mean norm of w: 77.017160
+norm of inc: 0.472041
+mean square error: 27.640000
+mean norm of w: 77.028578
+norm of inc: 0.484922
+mean square error: 24.070000
+mean norm of w: 77.039909
+norm of inc: 0.522101
+mean square error: 20.950000
+mean norm of w: 77.051082
+norm of inc: 0.564458
+mean square error: 18.005000
+mean norm of w: 77.062484
+norm of inc: 0.568136
+mean square error: 17.135000
+mean norm of w: 77.074461
+norm of inc: 0.618065
+mean square error: 17.790000
+mean norm of w: 77.085382
+norm of inc: 0.607843
+mean square error: 18.700000
+mean norm of w: 77.097540
+norm of inc: 0.604843
+mean square error: 18.690000
+mean norm of w: 77.110517
+norm of inc: 0.599758
+mean square error: 20.265000
+mean norm of w: 77.123037
+norm of inc: 0.600878
+mean square error: 21.580000
+mean norm of w: 77.136138
+norm of inc: 0.599276
+mean square error: 23.670000
+mean norm of w: 77.148489
+norm of inc: 0.625314
+mean square error: 27.995000
+mean norm of w: 77.159472
+norm of inc: 0.634049
+mean square error: 32.900000
+mean norm of w: 77.169818
+norm of inc: 0.578306
+epoch 14
+mean square error: 33.500000
+mean norm of w: 77.180438
+norm of inc: 0.533806
+mean square error: 32.900000
+mean norm of w: 77.191313
+norm of inc: 0.507684
+mean square error: 31.745000
+mean norm of w: 77.202417
+norm of inc: 0.476432
+mean square error: 28.825000
+mean norm of w: 77.212954
+norm of inc: 0.489403
+mean square error: 28.150000
+mean norm of w: 77.222130
+norm of inc: 0.509204
+mean square error: 26.960000
+mean norm of w: 77.231120
+norm of inc: 0.510416
+mean square error: 23.465000
+mean norm of w: 77.240203
+norm of inc: 0.539528
+mean square error: 19.435000
+mean norm of w: 77.250179
+norm of inc: 0.550272
+mean square error: 18.280000
+mean norm of w: 77.259857
+norm of inc: 0.576337
+mean square error: 18.095000
+mean norm of w: 77.270051
+norm of inc: 0.573298
+mean square error: 18.580000
+mean norm of w: 77.281262
+norm of inc: 0.606551
+mean square error: 20.130000
+mean norm of w: 77.291759
+norm of inc: 0.636664
+mean square error: 23.630000
+mean norm of w: 77.302374
+norm of inc: 0.571819
+mean square error: 24.785000
+mean norm of w: 77.314333
+norm of inc: 0.562249
+mean square error: 22.800000
+mean norm of w: 77.326382
+norm of inc: 0.596214
+mean square error: 19.705000
+mean norm of w: 77.338981
+norm of inc: 0.595810
+mean square error: 18.395000
+mean norm of w: 77.351293
+norm of inc: 0.618627
+mean square error: 18.525000
+mean norm of w: 77.362915
+norm of inc: 0.623947
+mean square error: 20.795000
+mean norm of w: 77.374670
+norm of inc: 0.577438
+mean square error: 20.895000
+mean norm of w: 77.387977
+norm of inc: 0.585906
+mean square error: 18.710000
+mean norm of w: 77.401592
+norm of inc: 0.619166
+mean square error: 18.210000
+mean norm of w: 77.415585
+norm of inc: 0.642972
+mean square error: 19.725000
+mean norm of w: 77.428698
+norm of inc: 0.653677
+mean square error: 23.995000
+mean norm of w: 77.441850
+norm of inc: 0.610637
+mean square error: 28.605000
+mean norm of w: 77.455352
+norm of inc: 0.573634
+mean square error: 30.900000
+mean norm of w: 77.468716
+norm of inc: 0.550126
+mean square error: 29.465000
+mean norm of w: 77.482158
+norm of inc: 0.522148
+mean square error: 28.810000
+mean norm of w: 77.495281
+norm of inc: 0.496031
+mean square error: 29.075000
+mean norm of w: 77.508281
+norm of inc: 0.479753
+mean square error: 28.835000
+mean norm of w: 77.519827
+norm of inc: 0.470436
+mean square error: 29.415000
+mean norm of w: 77.530937
+norm of inc: 0.458030
+mean square error: 28.515000
+mean norm of w: 77.542031
+norm of inc: 0.458259
+mean square error: 27.410000
+mean norm of w: 77.553134
+norm of inc: 0.481378
+mean square error: 24.015000
+mean norm of w: 77.564605
+norm of inc: 0.525300
+mean square error: 19.835000
+mean norm of w: 77.576578
+norm of inc: 0.580075
+mean square error: 17.405000
+mean norm of w: 77.588210
+norm of inc: 0.613649
+mean square error: 17.590000
+mean norm of w: 77.599315
+norm of inc: 0.577818
+mean square error: 17.680000
+mean norm of w: 77.610987
+norm of inc: 0.598538
+mean square error: 17.960000
+mean norm of w: 77.622807
+norm of inc: 0.601847
+mean square error: 18.255000
+mean norm of w: 77.635023
+norm of inc: 0.607344
+mean square error: 19.135000
+mean norm of w: 77.647995
+norm of inc: 0.600952
+mean square error: 20.760000
+mean norm of w: 77.661338
+norm of inc: 0.604224
+mean square error: 23.855000
+mean norm of w: 77.674475
+norm of inc: 0.588439
+mean square error: 27.645000
+mean norm of w: 77.687604
+norm of inc: 0.579295
+mean square error: 31.340000
+mean norm of w: 77.699379
+norm of inc: 0.549872
+epoch 15
+mean square error: 32.410000
+mean norm of w: 77.710715
+norm of inc: 0.526159
+mean square error: 31.460000
+mean norm of w: 77.721502
+norm of inc: 0.495217
+mean square error: 31.255000
+mean norm of w: 77.732047
+norm of inc: 0.494369
+mean square error: 28.045000
+mean norm of w: 77.742431
+norm of inc: 0.499717
+mean square error: 25.685000
+mean norm of w: 77.752348
+norm of inc: 0.505239
+mean square error: 24.545000
+mean norm of w: 77.761321
+norm of inc: 0.496993
+mean square error: 21.760000
+mean norm of w: 77.770269
+norm of inc: 0.505013
+mean square error: 20.655000
+mean norm of w: 77.780072
+norm of inc: 0.549836
+mean square error: 17.655000
+mean norm of w: 77.790947
+norm of inc: 0.568317
+mean square error: 17.095000
+mean norm of w: 77.802672
+norm of inc: 0.591145
+mean square error: 18.125000
+mean norm of w: 77.814198
+norm of inc: 0.581345
+mean square error: 19.775000
+mean norm of w: 77.826251
+norm of inc: 0.611654
+mean square error: 21.705000
+mean norm of w: 77.838212
+norm of inc: 0.581288
+mean square error: 25.035000
+mean norm of w: 77.851311
+norm of inc: 0.534732
+mean square error: 24.345000
+mean norm of w: 77.864767
+norm of inc: 0.552171
+mean square error: 19.910000
+mean norm of w: 77.878464
+norm of inc: 0.586601
+mean square error: 17.495000
+mean norm of w: 77.891709
+norm of inc: 0.625600
+mean square error: 17.390000
+mean norm of w: 77.904275
+norm of inc: 0.636494
+mean square error: 20.705000
+mean norm of w: 77.916620
+norm of inc: 0.598167
+mean square error: 21.650000
+mean norm of w: 77.930252
+norm of inc: 0.595064
+mean square error: 19.835000
+mean norm of w: 77.945160
+norm of inc: 0.610860
+mean square error: 19.125000
+mean norm of w: 77.960970
+norm of inc: 0.643520
+mean square error: 19.745000
+mean norm of w: 77.975126
+norm of inc: 0.685497
+mean square error: 23.125000
+mean norm of w: 77.988073
+norm of inc: 0.671433
+mean square error: 28.770000
+mean norm of w: 78.001504
+norm of inc: 0.607805
+mean square error: 31.990000
+mean norm of w: 78.016232
+norm of inc: 0.567815
+mean square error: 31.115000
+mean norm of w: 78.031111
+norm of inc: 0.534333
+mean square error: 29.680000
+mean norm of w: 78.046348
+norm of inc: 0.512545
+mean square error: 30.140000
+mean norm of w: 78.059915
+norm of inc: 0.504622
+mean square error: 28.875000
+mean norm of w: 78.072608
+norm of inc: 0.494318
+mean square error: 29.985000
+mean norm of w: 78.084109
+norm of inc: 0.493722
+mean square error: 28.540000
+mean norm of w: 78.094583
+norm of inc: 0.481064
+mean square error: 27.780000
+mean norm of w: 78.105824
+norm of inc: 0.493612
+mean square error: 24.385000
+mean norm of w: 78.117483
+norm of inc: 0.526364
+mean square error: 20.740000
+mean norm of w: 78.129893
+norm of inc: 0.556088
+mean square error: 18.145000
+mean norm of w: 78.141100
+norm of inc: 0.574483
+mean square error: 16.985000
+mean norm of w: 78.152178
+norm of inc: 0.594756
+mean square error: 16.025000
+mean norm of w: 78.163177
+norm of inc: 0.630890
+mean square error: 17.480000
+mean norm of w: 78.174331
+norm of inc: 0.617568
+mean square error: 17.605000
+mean norm of w: 78.185852
+norm of inc: 0.616175
+mean square error: 18.585000
+mean norm of w: 78.197999
+norm of inc: 0.614227
+mean square error: 21.325000
+mean norm of w: 78.209356
+norm of inc: 0.611037
+mean square error: 23.990000
+mean norm of w: 78.221196
+norm of inc: 0.591141
+mean square error: 26.565000
+mean norm of w: 78.232392
+norm of inc: 0.613590
+mean square error: 30.775000
+mean norm of w: 78.242673
+norm of inc: 0.572877
+epoch 16
+mean square error: 31.960000
+mean norm of w: 78.252732
+norm of inc: 0.538994
+mean square error: 31.105000
+mean norm of w: 78.262408
+norm of inc: 0.505396
+mean square error: 31.070000
+mean norm of w: 78.272177
+norm of inc: 0.476800
+mean square error: 28.225000
+mean norm of w: 78.281977
+norm of inc: 0.489187
+mean square error: 26.805000
+mean norm of w: 78.290703
+norm of inc: 0.506244
+mean square error: 24.590000
+mean norm of w: 78.299218
+norm of inc: 0.510188
+mean square error: 21.290000
+mean norm of w: 78.308112
+norm of inc: 0.524402
+mean square error: 19.555000
+mean norm of w: 78.317084
+norm of inc: 0.538557
+mean square error: 17.905000
+mean norm of w: 78.326532
+norm of inc: 0.566544
+mean square error: 17.130000
+mean norm of w: 78.336418
+norm of inc: 0.587788
+mean square error: 17.955000
+mean norm of w: 78.346287
+norm of inc: 0.587949
+mean square error: 20.005000
+mean norm of w: 78.356588
+norm of inc: 0.589272
+mean square error: 21.345000
+mean norm of w: 78.367863
+norm of inc: 0.581862
+mean square error: 23.440000
+mean norm of w: 78.379881
+norm of inc: 0.557110
+mean square error: 22.405000
+mean norm of w: 78.392665
+norm of inc: 0.570228
+mean square error: 20.120000
+mean norm of w: 78.405671
+norm of inc: 0.602116
+mean square error: 17.745000
+mean norm of w: 78.418463
+norm of inc: 0.626834
+mean square error: 17.615000
+mean norm of w: 78.430261
+norm of inc: 0.663404
+mean square error: 21.585000
+mean norm of w: 78.441471
+norm of inc: 0.583727
+mean square error: 24.165000
+mean norm of w: 78.454233
+norm of inc: 0.579271
+mean square error: 22.505000
+mean norm of w: 78.467860
+norm of inc: 0.639125
+mean square error: 18.315000
+mean norm of w: 78.482218
+norm of inc: 0.657180
+mean square error: 18.525000
+mean norm of w: 78.495971
+norm of inc: 0.742871
+mean square error: 25.105000
+mean norm of w: 78.508723
+norm of inc: 0.667721
+mean square error: 29.605000
+mean norm of w: 78.523385
+norm of inc: 0.609437
+mean square error: 30.740000
+mean norm of w: 78.538793
+norm of inc: 0.571729
+mean square error: 30.470000
+mean norm of w: 78.554194
+norm of inc: 0.536846
+mean square error: 30.240000
+mean norm of w: 78.568643
+norm of inc: 0.509658
+mean square error: 30.565000
+mean norm of w: 78.581978
+norm of inc: 0.501444
+mean square error: 29.945000
+mean norm of w: 78.594196
+norm of inc: 0.484218
+mean square error: 29.390000
+mean norm of w: 78.606208
+norm of inc: 0.474199
+mean square error: 28.880000
+mean norm of w: 78.617749
+norm of inc: 0.483807
+mean square error: 26.500000
+mean norm of w: 78.628946
+norm of inc: 0.501397
+mean square error: 24.475000
+mean norm of w: 78.640076
+norm of inc: 0.529950
+mean square error: 20.765000
+mean norm of w: 78.651533
+norm of inc: 0.566251
+mean square error: 17.705000
+mean norm of w: 78.662682
+norm of inc: 0.589574
+mean square error: 16.830000
+mean norm of w: 78.673571
+norm of inc: 0.616711
+mean square error: 16.225000
+mean norm of w: 78.684151
+norm of inc: 0.626045
+mean square error: 17.485000
+mean norm of w: 78.694822
+norm of inc: 0.631784
+mean square error: 17.090000
+mean norm of w: 78.705453
+norm of inc: 0.635894
+mean square error: 18.805000
+mean norm of w: 78.717144
+norm of inc: 0.610016
+mean square error: 21.205000
+mean norm of w: 78.729809
+norm of inc: 0.615644
+mean square error: 23.120000
+mean norm of w: 78.742342
+norm of inc: 0.621520
+mean square error: 26.515000
+mean norm of w: 78.754087
+norm of inc: 0.613680
+mean square error: 30.270000
+mean norm of w: 78.765013
+norm of inc: 0.580614
+epoch 17
+mean square error: 31.615000
+mean norm of w: 78.775594
+norm of inc: 0.545102
+mean square error: 31.115000
+mean norm of w: 78.785591
+norm of inc: 0.519531
+mean square error: 31.045000
+mean norm of w: 78.795793
+norm of inc: 0.492984
+mean square error: 28.480000
+mean norm of w: 78.805745
+norm of inc: 0.487254
+mean square error: 27.320000
+mean norm of w: 78.815212
+norm of inc: 0.513865
+mean square error: 24.410000
+mean norm of w: 78.824180
+norm of inc: 0.537198
+mean square error: 21.865000
+mean norm of w: 78.832712
+norm of inc: 0.543917
+mean square error: 20.840000
+mean norm of w: 78.841507
+norm of inc: 0.558357
+mean square error: 19.475000
+mean norm of w: 78.851114
+norm of inc: 0.582602
+mean square error: 17.180000
+mean norm of w: 78.861116
+norm of inc: 0.586752
+mean square error: 18.335000
+mean norm of w: 78.871529
+norm of inc: 0.619125
+mean square error: 19.205000
+mean norm of w: 78.881969
+norm of inc: 0.605921
+mean square error: 21.595000
+mean norm of w: 78.893537
+norm of inc: 0.591627
+mean square error: 23.165000
+mean norm of w: 78.906201
+norm of inc: 0.557900
+mean square error: 23.265000
+mean norm of w: 78.919353
+norm of inc: 0.550851
+mean square error: 20.460000
+mean norm of w: 78.932494
+norm of inc: 0.573051
+mean square error: 18.270000
+mean norm of w: 78.945302
+norm of inc: 0.606022
+mean square error: 17.150000
+mean norm of w: 78.957436
+norm of inc: 0.662503
+mean square error: 20.125000
+mean norm of w: 78.968285
+norm of inc: 0.609096
+mean square error: 22.395000
+mean norm of w: 78.980275
+norm of inc: 0.581184
+mean square error: 22.030000
+mean norm of w: 78.993423
+norm of inc: 0.604599
+mean square error: 19.375000
+mean norm of w: 79.007343
+norm of inc: 0.618715
+mean square error: 18.325000
+mean norm of w: 79.021703
+norm of inc: 0.769688
+mean square error: 22.560000
+mean norm of w: 79.032801
+norm of inc: 0.723799
+mean square error: 30.970000
+mean norm of w: 79.046009
+norm of inc: 0.617885
+mean square error: 32.985000
+mean norm of w: 79.059607
+norm of inc: 0.605796
+mean square error: 32.200000
+mean norm of w: 79.072611
+norm of inc: 0.575042
+mean square error: 30.655000
+mean norm of w: 79.086038
+norm of inc: 0.528499
+mean square error: 30.480000
+mean norm of w: 79.097594
+norm of inc: 0.528424
+mean square error: 29.680000
+mean norm of w: 79.107928
+norm of inc: 0.510686
+mean square error: 29.950000
+mean norm of w: 79.117601
+norm of inc: 0.497874
+mean square error: 29.725000
+mean norm of w: 79.127234
+norm of inc: 0.485168
+mean square error: 27.570000
+mean norm of w: 79.137388
+norm of inc: 0.502414
+mean square error: 24.465000
+mean norm of w: 79.147786
+norm of inc: 0.517927
+mean square error: 21.755000
+mean norm of w: 79.158500
+norm of inc: 0.565567
+mean square error: 17.740000
+mean norm of w: 79.168610
+norm of inc: 0.606348
+mean square error: 16.360000
+mean norm of w: 79.178098
+norm of inc: 0.659046
+mean square error: 16.715000
+mean norm of w: 79.186018
+norm of inc: 0.629690
+mean square error: 18.925000
+mean norm of w: 79.195156
+norm of inc: 0.629416
+mean square error: 17.350000
+mean norm of w: 79.205110
+norm of inc: 0.656182
+mean square error: 18.235000
+mean norm of w: 79.215207
+norm of inc: 0.656510
+mean square error: 21.120000
+mean norm of w: 79.225843
+norm of inc: 0.634114
+mean square error: 23.505000
+mean norm of w: 79.236547
+norm of inc: 0.629023
+mean square error: 26.590000
+mean norm of w: 79.247284
+norm of inc: 0.617620
+mean square error: 30.135000
+mean norm of w: 79.257958
+norm of inc: 0.587351
+epoch 18
+mean square error: 31.455000
+mean norm of w: 79.267659
+norm of inc: 0.544274
+mean square error: 31.560000
+mean norm of w: 79.277015
+norm of inc: 0.508913
+mean square error: 32.350000
+mean norm of w: 79.286562
+norm of inc: 0.488512
+mean square error: 29.150000
+mean norm of w: 79.295719
+norm of inc: 0.498587
+mean square error: 27.860000
+mean norm of w: 79.304698
+norm of inc: 0.519861
+mean square error: 25.450000
+mean norm of w: 79.313564
+norm of inc: 0.529106
+mean square error: 21.045000
+mean norm of w: 79.322634
+norm of inc: 0.546181
+mean square error: 19.605000
+mean norm of w: 79.331682
+norm of inc: 0.562327
+mean square error: 18.855000
+mean norm of w: 79.340735
+norm of inc: 0.580024
+mean square error: 17.375000
+mean norm of w: 79.350483
+norm of inc: 0.589964
+mean square error: 17.165000
+mean norm of w: 79.360883
+norm of inc: 0.699264
+mean square error: 19.895000
+mean norm of w: 79.370656
+norm of inc: 0.624703
+mean square error: 23.870000
+mean norm of w: 79.382757
+norm of inc: 0.582251
+mean square error: 22.810000
+mean norm of w: 79.395972
+norm of inc: 0.575220
+mean square error: 21.075000
+mean norm of w: 79.409312
+norm of inc: 0.588249
+mean square error: 19.770000
+mean norm of w: 79.422335
+norm of inc: 0.596337
+mean square error: 17.320000
+mean norm of w: 79.436770
+norm of inc: 0.588570
+mean square error: 17.060000
+mean norm of w: 79.450538
+norm of inc: 0.651646
+mean square error: 19.515000
+mean norm of w: 79.463084
+norm of inc: 0.620248
+mean square error: 22.090000
+mean norm of w: 79.476985
+norm of inc: 0.578608
+mean square error: 22.625000
+mean norm of w: 79.492209
+norm of inc: 0.597211
+mean square error: 19.785000
+mean norm of w: 79.508036
+norm of inc: 0.628620
+mean square error: 18.005000
+mean norm of w: 79.524121
+norm of inc: 0.697432
+mean square error: 21.580000
+mean norm of w: 79.537473
+norm of inc: 0.730032
+mean square error: 29.505000
+mean norm of w: 79.550846
+norm of inc: 0.626729
+mean square error: 33.675000
+mean norm of w: 79.564893
+norm of inc: 0.599441
+mean square error: 33.205000
+mean norm of w: 79.578191
+norm of inc: 0.580250
+mean square error: 31.055000
+mean norm of w: 79.591462
+norm of inc: 0.513248
+mean square error: 30.825000
+mean norm of w: 79.603652
+norm of inc: 0.520827
+mean square error: 29.480000
+mean norm of w: 79.613498
+norm of inc: 0.538561
+mean square error: 30.670000
+mean norm of w: 79.622635
+norm of inc: 0.526434
+mean square error: 29.140000
+mean norm of w: 79.631846
+norm of inc: 0.520402
+mean square error: 28.185000
+mean norm of w: 79.641524
+norm of inc: 0.513568
+mean square error: 25.970000
+mean norm of w: 79.651546
+norm of inc: 0.524297
+mean square error: 22.405000
+mean norm of w: 79.661493
+norm of inc: 0.560672
+mean square error: 18.815000
+mean norm of w: 79.671710
+norm of inc: 0.603246
+mean square error: 16.560000
+mean norm of w: 79.681744
+norm of inc: 0.649475
+mean square error: 15.980000
+mean norm of w: 79.690936
+norm of inc: 0.667692
+mean square error: 18.090000
+mean norm of w: 79.699738
+norm of inc: 0.642309
+mean square error: 18.350000
+mean norm of w: 79.709769
+norm of inc: 0.632299
+mean square error: 19.535000
+mean norm of w: 79.720970
+norm of inc: 0.632911
+mean square error: 20.215000
+mean norm of w: 79.732300
+norm of inc: 0.629566
+mean square error: 23.720000
+mean norm of w: 79.743152
+norm of inc: 0.627526
+mean square error: 26.115000
+mean norm of w: 79.752945
+norm of inc: 0.622791
+mean square error: 29.940000
+mean norm of w: 79.762114
+norm of inc: 0.603286
+epoch 19
+mean square error: 31.345000
+mean norm of w: 79.771397
+norm of inc: 0.561485
+mean square error: 31.780000
+mean norm of w: 79.780486
+norm of inc: 0.543016
+mean square error: 32.380000
+mean norm of w: 79.789629
+norm of inc: 0.516633
+mean square error: 29.595000
+mean norm of w: 79.799412
+norm of inc: 0.498591
+mean square error: 27.550000
+mean norm of w: 79.808418
+norm of inc: 0.519817
+mean square error: 26.075000
+mean norm of w: 79.816194
+norm of inc: 0.538607
+mean square error: 21.390000
+mean norm of w: 79.823894
+norm of inc: 0.568832
+mean square error: 19.560000
+mean norm of w: 79.831925
+norm of inc: 0.580697
+mean square error: 17.770000
+mean norm of w: 79.840703
+norm of inc: 0.591995
+mean square error: 17.845000
+mean norm of w: 79.849432
+norm of inc: 0.599332
+mean square error: 17.115000
+mean norm of w: 79.858494
+norm of inc: 0.605455
+mean square error: 18.175000
+mean norm of w: 79.868542
+norm of inc: 0.734964
+mean square error: 22.455000
+mean norm of w: 79.877251
+norm of inc: 0.647902
+mean square error: 27.115000
+mean norm of w: 79.889139
+norm of inc: 0.562780
+mean square error: 27.570000
+mean norm of w: 79.901871
+norm of inc: 0.561902
+mean square error: 22.760000
+mean norm of w: 79.913983
+norm of inc: 0.601313
+mean square error: 19.305000
+mean norm of w: 79.924487
+norm of inc: 0.653062
+mean square error: 17.570000
+mean norm of w: 79.934352
+norm of inc: 0.752145
+mean square error: 19.255000
+mean norm of w: 79.942095
+norm of inc: 0.688369
+mean square error: 21.730000
+mean norm of w: 79.951694
+norm of inc: 0.656051
+mean square error: 22.635000
+mean norm of w: 79.962834
+norm of inc: 0.644297
+mean square error: 21.215000
+mean norm of w: 79.974875
+norm of inc: 0.635143
+mean square error: 20.125000
+mean norm of w: 79.987635
+norm of inc: 0.639146
+mean square error: 21.420000
+mean norm of w: 79.998855
+norm of inc: 0.768226
+mean square error: 27.685000
+mean norm of w: 80.007130
+norm of inc: 0.704528
+mean square error: 32.580000
+mean norm of w: 80.017197
+norm of inc: 0.629452
+mean square error: 34.515000
+mean norm of w: 80.027878
+norm of inc: 0.609016
+mean square error: 33.390000
+mean norm of w: 80.038976
+norm of inc: 0.568182
+mean square error: 31.440000
+mean norm of w: 80.050658
+norm of inc: 0.524552
+mean square error: 30.545000
+mean norm of w: 80.060612
+norm of inc: 0.537471
+mean square error: 30.920000
+mean norm of w: 80.068629
+norm of inc: 0.541445
+mean square error: 30.510000
+mean norm of w: 80.076243
+norm of inc: 0.519663
+mean square error: 30.080000
+mean norm of w: 80.084139
+norm of inc: 0.501394
+mean square error: 29.575000
+mean norm of w: 80.092395
+norm of inc: 0.516121
+mean square error: 26.255000
+mean norm of w: 80.100595
+norm of inc: 0.553995
+mean square error: 21.665000
+mean norm of w: 80.108514
+norm of inc: 0.610945
+mean square error: 18.710000
+mean norm of w: 80.115588
+norm of inc: 0.652267
+mean square error: 17.515000
+mean norm of w: 80.122144
+norm of inc: 0.701639
+mean square error: 18.280000
+mean norm of w: 80.127776
+norm of inc: 0.702100
+mean square error: 18.485000
+mean norm of w: 80.134946
+norm of inc: 0.682942
+mean square error: 20.475000
+mean norm of w: 80.142390
+norm of inc: 0.666171
+mean square error: 21.705000
+mean norm of w: 80.150841
+norm of inc: 0.652507
+mean square error: 23.860000
+mean norm of w: 80.160096
+norm of inc: 0.660034
+mean square error: 26.685000
+mean norm of w: 80.168735
+norm of inc: 0.648654
+mean square error: 30.870000
+mean norm of w: 80.176916
+norm of inc: 0.633626
+epoch 20
+mean square error: 31.885000
+mean norm of w: 80.183978
+norm of inc: 0.598156
+mean square error: 32.135000
+mean norm of w: 80.191227
+norm of inc: 0.555465
+mean square error: 33.270000
+mean norm of w: 80.198290
+norm of inc: 0.533517
+mean square error: 31.540000
+mean norm of w: 80.205495
+norm of inc: 0.504898
+mean square error: 29.795000
+mean norm of w: 80.212454
+norm of inc: 0.515038
+mean square error: 27.145000
+mean norm of w: 80.218362
+norm of inc: 0.535017
+mean square error: 24.640000
+mean norm of w: 80.223607
+norm of inc: 0.552789
+mean square error: 22.070000
+mean norm of w: 80.228787
+norm of inc: 0.584772
+mean square error: 18.915000
+mean norm of w: 80.234881
+norm of inc: 0.596030
+mean square error: 18.020000
+mean norm of w: 80.241378
+norm of inc: 0.617628
+mean square error: 17.825000
+mean norm of w: 80.247426
+norm of inc: 0.610062
+mean square error: 19.665000
+mean norm of w: 80.253935
+norm of inc: 0.625999
+mean square error: 21.045000
+mean norm of w: 80.260630
+norm of inc: 0.656617
+mean square error: 23.490000
+mean norm of w: 80.267654
+norm of inc: 0.602086
+mean square error: 25.440000
+mean norm of w: 80.276899
+norm of inc: 0.585083
+mean square error: 22.390000
+mean norm of w: 80.287098
+norm of inc: 0.602962
+mean square error: 18.610000
+mean norm of w: 80.297180
+norm of inc: 0.607721
+mean square error: 17.850000
+mean norm of w: 80.307190
+norm of inc: 0.634320
+mean square error: 19.275000
+mean norm of w: 80.315996
+norm of inc: 0.662039
+mean square error: 21.600000
+mean norm of w: 80.325233
+norm of inc: 0.606435
+mean square error: 23.075000
+mean norm of w: 80.336306
+norm of inc: 0.580853
+mean square error: 23.175000
+mean norm of w: 80.348284
+norm of inc: 0.597291
+mean square error: 19.525000
+mean norm of w: 80.360832
+norm of inc: 0.606595
+mean square error: 20.755000
+mean norm of w: 80.372322
+norm of inc: 0.832159
+mean square error: 28.115000
+mean norm of w: 80.380479
+norm of inc: 0.728667
+mean square error: 34.530000
+mean norm of w: 80.392189
+norm of inc: 0.638161
+mean square error: 37.035000
+mean norm of w: 80.404085
+norm of inc: 0.633797
+mean square error: 34.820000
+mean norm of w: 80.416109
+norm of inc: 0.569797
+mean square error: 33.840000
+mean norm of w: 80.428693
+norm of inc: 0.502617
+mean square error: 32.575000
+mean norm of w: 80.439099
+norm of inc: 0.520084
+mean square error: 33.180000
+mean norm of w: 80.446566
+norm of inc: 0.519283
+mean square error: 32.305000
+mean norm of w: 80.453101
+norm of inc: 0.498657
+mean square error: 32.525000
+mean norm of w: 80.458959
+norm of inc: 0.483014
+mean square error: 31.600000
+mean norm of w: 80.464703
+norm of inc: 0.490036
+mean square error: 29.170000
+mean norm of w: 80.470229
+norm of inc: 0.538380
+mean square error: 23.825000
+mean norm of w: 80.475354
+norm of inc: 0.624167
+mean square error: 19.330000
+mean norm of w: 80.480666
+norm of inc: 0.659945
+mean square error: 17.145000
+mean norm of w: 80.484799
+norm of inc: 0.708005
+mean square error: 19.010000
+mean norm of w: 80.488467
+norm of inc: 0.709650
+mean square error: 19.615000
+mean norm of w: 80.492613
+norm of inc: 0.693706
+mean square error: 20.825000
+mean norm of w: 80.498764
+norm of inc: 0.671121
+mean square error: 21.800000
+mean norm of w: 80.506233
+norm of inc: 0.657962
+mean square error: 23.460000
+mean norm of w: 80.514431
+norm of inc: 0.630594
+mean square error: 25.520000
+mean norm of w: 80.522722
+norm of inc: 0.685354
+mean square error: 29.730000
+mean norm of w: 80.529023
+norm of inc: 0.649999
+epoch 1
+mean square error: 21.795000
+mean norm of w: 71.443069
+norm of inc: 0.381742
+mean square error: 21.930000
+mean norm of w: 71.440590
+norm of inc: 0.426162
+mean square error: 22.845000
+mean norm of w: 71.439800
+norm of inc: 0.556816
+mean square error: 25.175000
+mean norm of w: 71.437224
+norm of inc: 0.507218
+mean square error: 29.030000
+mean norm of w: 71.437914
+norm of inc: 0.471112
+mean square error: 27.420000
+mean norm of w: 71.441034
+norm of inc: 0.497492
+mean square error: 23.120000
+mean norm of w: 71.445701
+norm of inc: 0.524302
+mean square error: 21.600000
+mean norm of w: 71.450790
+norm of inc: 0.585026
+mean square error: 24.835000
+mean norm of w: 71.453921
+norm of inc: 0.573066
+mean square error: 27.600000
+mean norm of w: 71.457911
+norm of inc: 0.524785
+mean square error: 28.965000
+mean norm of w: 71.463696
+norm of inc: 0.495823
+mean square error: 27.795000
+mean norm of w: 71.470768
+norm of inc: 0.507964
+mean square error: 24.460000
+mean norm of w: 71.478741
+norm of inc: 0.550042
+mean square error: 21.370000
+mean norm of w: 71.486626
+norm of inc: 0.578412
+mean square error: 22.975000
+mean norm of w: 71.494030
+norm of inc: 0.618994
+mean square error: 25.295000
+mean norm of w: 71.500809
+norm of inc: 0.567998
+mean square error: 27.390000
+mean norm of w: 71.510308
+norm of inc: 0.536702
+mean square error: 24.660000
+mean norm of w: 71.522263
+norm of inc: 0.530175
+mean square error: 22.810000
+mean norm of w: 71.534921
+norm of inc: 0.549246
+mean square error: 20.835000
+mean norm of w: 71.546848
+norm of inc: 0.617583
+mean square error: 22.725000
+mean norm of w: 71.557781
+norm of inc: 0.598804
+mean square error: 25.500000
+mean norm of w: 71.569521
+norm of inc: 0.568543
+mean square error: 25.565000
+mean norm of w: 71.582925
+norm of inc: 0.544308
+mean square error: 25.025000
+mean norm of w: 71.597659
+norm of inc: 0.547253
+mean square error: 23.440000
+mean norm of w: 71.612640
+norm of inc: 0.564967
+mean square error: 23.740000
+mean norm of w: 71.627154
+norm of inc: 0.627623
+mean square error: 28.055000
+mean norm of w: 71.639574
+norm of inc: 0.582590
+mean square error: 31.725000
+mean norm of w: 71.653226
+norm of inc: 0.517079
+mean square error: 32.760000
+mean norm of w: 71.667089
+norm of inc: 0.505110
+mean square error: 29.880000
+mean norm of w: 71.681625
+norm of inc: 0.520303
+mean square error: 24.870000
+mean norm of w: 71.696138
+norm of inc: 0.575775
+mean square error: 22.920000
+mean norm of w: 71.710014
+norm of inc: 0.616020
+mean square error: 24.705000
+mean norm of w: 71.722345
+norm of inc: 0.582069
+mean square error: 26.325000
+mean norm of w: 71.735286
+norm of inc: 0.553087
+mean square error: 26.365000
+mean norm of w: 71.749296
+norm of inc: 0.546716
+mean square error: 26.105000
+mean norm of w: 71.763745
+norm of inc: 0.564687
+mean square error: 24.740000
+mean norm of w: 71.777785
+norm of inc: 0.557070
+mean square error: 24.520000
+mean norm of w: 71.791418
+norm of inc: 0.544190
+mean square error: 25.650000
+mean norm of w: 71.804592
+norm of inc: 0.540961
+mean square error: 23.625000
+mean norm of w: 71.818478
+norm of inc: 0.566968
+mean square error: 20.865000
+mean norm of w: 71.833006
+norm of inc: 0.614972
+mean square error: 21.430000
+mean norm of w: 71.846101
+norm of inc: 0.599617
+mean square error: 23.955000
+mean norm of w: 71.859349
+norm of inc: 0.570941
+mean square error: 23.460000
+mean norm of w: 71.873948
+norm of inc: 0.578576
+mean square error: 22.035000
+mean norm of w: 71.888509
+norm of inc: 0.607816
+epoch 2
+mean square error: 19.390000
+mean norm of w: 71.902006
+norm of inc: 0.611767
+mean square error: 19.100000
+mean norm of w: 71.917062
+norm of inc: 0.595189
+mean square error: 21.845000
+mean norm of w: 71.933310
+norm of inc: 0.577555
+mean square error: 23.805000
+mean norm of w: 71.949986
+norm of inc: 0.557934
+mean square error: 27.045000
+mean norm of w: 71.966420
+norm of inc: 0.528035
+mean square error: 27.145000
+mean norm of w: 71.983357
+norm of inc: 0.529881
+mean square error: 23.005000
+mean norm of w: 72.001246
+norm of inc: 0.570127
+mean square error: 21.235000
+mean norm of w: 72.019756
+norm of inc: 0.633294
+mean square error: 23.755000
+mean norm of w: 72.035940
+norm of inc: 0.630427
+mean square error: 27.420000
+mean norm of w: 72.051108
+norm of inc: 0.599744
+mean square error: 28.800000
+mean norm of w: 72.067075
+norm of inc: 0.556388
+mean square error: 27.250000
+mean norm of w: 72.083790
+norm of inc: 0.552203
+mean square error: 24.385000
+mean norm of w: 72.100444
+norm of inc: 0.578227
+mean square error: 22.970000
+mean norm of w: 72.116542
+norm of inc: 0.605130
+mean square error: 23.680000
+mean norm of w: 72.130986
+norm of inc: 0.624954
+mean square error: 25.020000
+mean norm of w: 72.145312
+norm of inc: 0.592686
+mean square error: 26.460000
+mean norm of w: 72.160104
+norm of inc: 0.571324
+mean square error: 24.730000
+mean norm of w: 72.175724
+norm of inc: 0.559790
+mean square error: 22.675000
+mean norm of w: 72.192038
+norm of inc: 0.557976
+mean square error: 21.480000
+mean norm of w: 72.208221
+norm of inc: 0.579076
+mean square error: 21.855000
+mean norm of w: 72.223859
+norm of inc: 0.591581
+mean square error: 23.880000
+mean norm of w: 72.238448
+norm of inc: 0.575659
+mean square error: 25.190000
+mean norm of w: 72.253435
+norm of inc: 0.555661
+mean square error: 24.815000
+mean norm of w: 72.269718
+norm of inc: 0.551599
+mean square error: 23.425000
+mean norm of w: 72.286852
+norm of inc: 0.549160
+mean square error: 23.285000
+mean norm of w: 72.302172
+norm of inc: 0.628214
+mean square error: 28.375000
+mean norm of w: 72.315151
+norm of inc: 0.582799
+mean square error: 31.180000
+mean norm of w: 72.328377
+norm of inc: 0.532188
+mean square error: 31.160000
+mean norm of w: 72.341853
+norm of inc: 0.531424
+mean square error: 28.545000
+mean norm of w: 72.356206
+norm of inc: 0.535056
+mean square error: 24.155000
+mean norm of w: 72.370704
+norm of inc: 0.566091
+mean square error: 22.645000
+mean norm of w: 72.383883
+norm of inc: 0.586033
+mean square error: 23.875000
+mean norm of w: 72.396336
+norm of inc: 0.557543
+mean square error: 25.875000
+mean norm of w: 72.408976
+norm of inc: 0.552384
+mean square error: 26.330000
+mean norm of w: 72.421933
+norm of inc: 0.549300
+mean square error: 26.710000
+mean norm of w: 72.435817
+norm of inc: 0.532563
+mean square error: 25.445000
+mean norm of w: 72.449262
+norm of inc: 0.551109
+mean square error: 24.980000
+mean norm of w: 72.461745
+norm of inc: 0.557368
+mean square error: 24.105000
+mean norm of w: 72.474183
+norm of inc: 0.550298
+mean square error: 23.180000
+mean norm of w: 72.487225
+norm of inc: 0.574141
+mean square error: 20.100000
+mean norm of w: 72.500694
+norm of inc: 0.597393
+mean square error: 21.095000
+mean norm of w: 72.513416
+norm of inc: 0.606880
+mean square error: 23.935000
+mean norm of w: 72.525848
+norm of inc: 0.573526
+mean square error: 22.955000
+mean norm of w: 72.539463
+norm of inc: 0.570285
+mean square error: 22.225000
+mean norm of w: 72.553510
+norm of inc: 0.585937
+epoch 3
+mean square error: 20.350000
+mean norm of w: 72.566841
+norm of inc: 0.603829
+mean square error: 20.795000
+mean norm of w: 72.580327
+norm of inc: 0.599684
+mean square error: 22.875000
+mean norm of w: 72.594034
+norm of inc: 0.606123
+mean square error: 23.745000
+mean norm of w: 72.607876
+norm of inc: 0.590845
+mean square error: 26.885000
+mean norm of w: 72.622270
+norm of inc: 0.556794
+mean square error: 25.690000
+mean norm of w: 72.637700
+norm of inc: 0.547829
+mean square error: 22.300000
+mean norm of w: 72.653734
+norm of inc: 0.547745
+mean square error: 22.065000
+mean norm of w: 72.670046
+norm of inc: 0.574656
+mean square error: 23.795000
+mean norm of w: 72.684967
+norm of inc: 0.603802
+mean square error: 25.975000
+mean norm of w: 72.698194
+norm of inc: 0.568599
+mean square error: 28.230000
+mean norm of w: 72.711790
+norm of inc: 0.535136
+mean square error: 26.725000
+mean norm of w: 72.725522
+norm of inc: 0.552151
+mean square error: 23.775000
+mean norm of w: 72.739307
+norm of inc: 0.576771
+mean square error: 21.710000
+mean norm of w: 72.753032
+norm of inc: 0.599948
+mean square error: 23.695000
+mean norm of w: 72.765891
+norm of inc: 0.588117
+mean square error: 25.100000
+mean norm of w: 72.779312
+norm of inc: 0.557166
+mean square error: 26.620000
+mean norm of w: 72.793357
+norm of inc: 0.548296
+mean square error: 23.640000
+mean norm of w: 72.808283
+norm of inc: 0.535522
+mean square error: 21.415000
+mean norm of w: 72.823146
+norm of inc: 0.563903
+mean square error: 21.055000
+mean norm of w: 72.837654
+norm of inc: 0.572369
+mean square error: 21.795000
+mean norm of w: 72.852214
+norm of inc: 0.567096
+mean square error: 24.520000
+mean norm of w: 72.866867
+norm of inc: 0.550772
+mean square error: 24.925000
+mean norm of w: 72.882376
+norm of inc: 0.531345
+mean square error: 24.990000
+mean norm of w: 72.898512
+norm of inc: 0.527731
+mean square error: 24.090000
+mean norm of w: 72.915157
+norm of inc: 0.530980
+mean square error: 22.590000
+mean norm of w: 72.931311
+norm of inc: 0.593098
+mean square error: 26.610000
+mean norm of w: 72.944787
+norm of inc: 0.588579
+mean square error: 31.385000
+mean norm of w: 72.958508
+norm of inc: 0.519367
+mean square error: 33.640000
+mean norm of w: 72.972283
+norm of inc: 0.515765
+mean square error: 30.995000
+mean norm of w: 72.986347
+norm of inc: 0.510807
+mean square error: 25.820000
+mean norm of w: 73.000584
+norm of inc: 0.530066
+mean square error: 23.580000
+mean norm of w: 73.014203
+norm of inc: 0.594246
+mean square error: 23.335000
+mean norm of w: 73.025652
+norm of inc: 0.595200
+mean square error: 26.350000
+mean norm of w: 73.037230
+norm of inc: 0.561116
+mean square error: 26.450000
+mean norm of w: 73.049826
+norm of inc: 0.562315
+mean square error: 25.015000
+mean norm of w: 73.063603
+norm of inc: 0.563281
+mean square error: 24.415000
+mean norm of w: 73.076949
+norm of inc: 0.561255
+mean square error: 25.360000
+mean norm of w: 73.089263
+norm of inc: 0.530792
+mean square error: 26.235000
+mean norm of w: 73.101631
+norm of inc: 0.544859
+mean square error: 22.830000
+mean norm of w: 73.114921
+norm of inc: 0.563459
+mean square error: 19.240000
+mean norm of w: 73.128375
+norm of inc: 0.607452
+mean square error: 20.695000
+mean norm of w: 73.140420
+norm of inc: 0.588761
+mean square error: 22.230000
+mean norm of w: 73.152693
+norm of inc: 0.598224
+mean square error: 22.900000
+mean norm of w: 73.164694
+norm of inc: 0.584841
+mean square error: 22.510000
+mean norm of w: 73.177816
+norm of inc: 0.599898
+epoch 4
+mean square error: 19.380000
+mean norm of w: 73.192014
+norm of inc: 0.605595
+mean square error: 19.880000
+mean norm of w: 73.205514
+norm of inc: 0.623573
+mean square error: 24.180000
+mean norm of w: 73.218744
+norm of inc: 0.592263
+mean square error: 24.820000
+mean norm of w: 73.233535
+norm of inc: 0.562837
+mean square error: 25.730000
+mean norm of w: 73.249024
+norm of inc: 0.553111
+mean square error: 25.090000
+mean norm of w: 73.264233
+norm of inc: 0.545470
+mean square error: 23.035000
+mean norm of w: 73.280041
+norm of inc: 0.547243
+mean square error: 21.430000
+mean norm of w: 73.296796
+norm of inc: 0.551594
+mean square error: 22.440000
+mean norm of w: 73.313982
+norm of inc: 0.632126
+mean square error: 25.565000
+mean norm of w: 73.327893
+norm of inc: 0.587666
+mean square error: 29.150000
+mean norm of w: 73.342812
+norm of inc: 0.526916
+mean square error: 28.750000
+mean norm of w: 73.357954
+norm of inc: 0.551443
+mean square error: 23.780000
+mean norm of w: 73.373295
+norm of inc: 0.549595
+mean square error: 21.730000
+mean norm of w: 73.387822
+norm of inc: 0.601366
+mean square error: 21.755000
+mean norm of w: 73.401268
+norm of inc: 0.644188
+mean square error: 24.585000
+mean norm of w: 73.413604
+norm of inc: 0.618089
+mean square error: 28.195000
+mean norm of w: 73.427774
+norm of inc: 0.576378
+mean square error: 26.415000
+mean norm of w: 73.443806
+norm of inc: 0.574743
+mean square error: 22.095000
+mean norm of w: 73.460843
+norm of inc: 0.581433
+mean square error: 20.350000
+mean norm of w: 73.477136
+norm of inc: 0.616987
+mean square error: 20.970000
+mean norm of w: 73.492154
+norm of inc: 0.607501
+mean square error: 24.050000
+mean norm of w: 73.506419
+norm of inc: 0.600636
+mean square error: 24.760000
+mean norm of w: 73.520478
+norm of inc: 0.574754
+mean square error: 25.630000
+mean norm of w: 73.535731
+norm of inc: 0.564292
+mean square error: 23.985000
+mean norm of w: 73.552243
+norm of inc: 0.550815
+mean square error: 23.815000
+mean norm of w: 73.568505
+norm of inc: 0.568172
+mean square error: 25.005000
+mean norm of w: 73.583022
+norm of inc: 0.627954
+mean square error: 29.610000
+mean norm of w: 73.595304
+norm of inc: 0.575228
+mean square error: 33.235000
+mean norm of w: 73.608455
+norm of inc: 0.525874
+mean square error: 33.675000
+mean norm of w: 73.622452
+norm of inc: 0.524165
+mean square error: 29.080000
+mean norm of w: 73.636889
+norm of inc: 0.550000
+mean square error: 23.830000
+mean norm of w: 73.651350
+norm of inc: 0.592895
+mean square error: 22.675000
+mean norm of w: 73.663337
+norm of inc: 0.645919
+mean square error: 25.270000
+mean norm of w: 73.672955
+norm of inc: 0.623412
+mean square error: 28.450000
+mean norm of w: 73.683077
+norm of inc: 0.587157
+mean square error: 27.990000
+mean norm of w: 73.694747
+norm of inc: 0.581305
+mean square error: 24.730000
+mean norm of w: 73.706749
+norm of inc: 0.595055
+mean square error: 23.720000
+mean norm of w: 73.717225
+norm of inc: 0.611062
+mean square error: 23.710000
+mean norm of w: 73.727769
+norm of inc: 0.583974
+mean square error: 24.195000
+mean norm of w: 73.738961
+norm of inc: 0.591214
+mean square error: 21.435000
+mean norm of w: 73.750333
+norm of inc: 0.604614
+mean square error: 20.210000
+mean norm of w: 73.761876
+norm of inc: 0.673122
+mean square error: 23.010000
+mean norm of w: 73.771760
+norm of inc: 0.621103
+mean square error: 24.280000
+mean norm of w: 73.783067
+norm of inc: 0.611315
+mean square error: 23.155000
+mean norm of w: 73.795509
+norm of inc: 0.617466
+epoch 5
+mean square error: 19.765000
+mean norm of w: 73.808221
+norm of inc: 0.650998
+mean square error: 20.680000
+mean norm of w: 73.820340
+norm of inc: 0.638181
+mean square error: 23.215000
+mean norm of w: 73.833407
+norm of inc: 0.627101
+mean square error: 23.835000
+mean norm of w: 73.846757
+norm of inc: 0.612500
+mean square error: 27.075000
+mean norm of w: 73.860366
+norm of inc: 0.577046
+mean square error: 25.495000
+mean norm of w: 73.874708
+norm of inc: 0.558681
+mean square error: 23.225000
+mean norm of w: 73.889384
+norm of inc: 0.575144
+mean square error: 22.855000
+mean norm of w: 73.904742
+norm of inc: 0.567589
+mean square error: 22.865000
+mean norm of w: 73.920011
+norm of inc: 0.621589
+mean square error: 25.395000
+mean norm of w: 73.933185
+norm of inc: 0.601745
+mean square error: 27.795000
+mean norm of w: 73.946776
+norm of inc: 0.559134
+mean square error: 28.490000
+mean norm of w: 73.960930
+norm of inc: 0.549967
+mean square error: 25.305000
+mean norm of w: 73.975553
+norm of inc: 0.564505
+mean square error: 21.900000
+mean norm of w: 73.989666
+norm of inc: 0.604632
+mean square error: 22.045000
+mean norm of w: 74.001961
+norm of inc: 0.629621
+mean square error: 24.710000
+mean norm of w: 74.013919
+norm of inc: 0.609432
+mean square error: 26.865000
+mean norm of w: 74.026813
+norm of inc: 0.566195
+mean square error: 27.805000
+mean norm of w: 74.040708
+norm of inc: 0.568931
+mean square error: 22.630000
+mean norm of w: 74.055536
+norm of inc: 0.569473
+mean square error: 20.675000
+mean norm of w: 74.069920
+norm of inc: 0.624172
+mean square error: 21.825000
+mean norm of w: 74.082393
+norm of inc: 0.613818
+mean square error: 24.790000
+mean norm of w: 74.095248
+norm of inc: 0.576409
+mean square error: 25.080000
+mean norm of w: 74.109392
+norm of inc: 0.557846
+mean square error: 24.670000
+mean norm of w: 74.124590
+norm of inc: 0.554540
+mean square error: 23.630000
+mean norm of w: 74.140120
+norm of inc: 0.538402
+mean square error: 23.240000
+mean norm of w: 74.154891
+norm of inc: 0.552405
+mean square error: 25.765000
+mean norm of w: 74.168177
+norm of inc: 0.571678
+mean square error: 29.080000
+mean norm of w: 74.180402
+norm of inc: 0.538755
+mean square error: 30.015000
+mean norm of w: 74.192696
+norm of inc: 0.515074
+mean square error: 30.225000
+mean norm of w: 74.206393
+norm of inc: 0.499712
+mean square error: 25.815000
+mean norm of w: 74.220821
+norm of inc: 0.526953
+mean square error: 22.410000
+mean norm of w: 74.235472
+norm of inc: 0.565140
+mean square error: 21.710000
+mean norm of w: 74.248825
+norm of inc: 0.587522
+mean square error: 24.275000
+mean norm of w: 74.262022
+norm of inc: 0.555810
+mean square error: 26.960000
+mean norm of w: 74.276086
+norm of inc: 0.523339
+mean square error: 27.495000
+mean norm of w: 74.289924
+norm of inc: 0.525143
+mean square error: 25.875000
+mean norm of w: 74.303706
+norm of inc: 0.546168
+mean square error: 23.345000
+mean norm of w: 74.317244
+norm of inc: 0.554351
+mean square error: 23.380000
+mean norm of w: 74.329882
+norm of inc: 0.553589
+mean square error: 23.050000
+mean norm of w: 74.343151
+norm of inc: 0.555797
+mean square error: 19.595000
+mean norm of w: 74.356792
+norm of inc: 0.551738
+mean square error: 19.435000
+mean norm of w: 74.370001
+norm of inc: 0.575773
+mean square error: 20.265000
+mean norm of w: 74.382972
+norm of inc: 0.576867
+mean square error: 21.455000
+mean norm of w: 74.395419
+norm of inc: 0.566636
+mean square error: 22.045000
+mean norm of w: 74.407901
+norm of inc: 0.564239
+epoch 6
+mean square error: 20.745000
+mean norm of w: 74.421128
+norm of inc: 0.577489
+mean square error: 19.150000
+mean norm of w: 74.434803
+norm of inc: 0.624313
+mean square error: 21.825000
+mean norm of w: 74.446807
+norm of inc: 0.588444
+mean square error: 23.690000
+mean norm of w: 74.460308
+norm of inc: 0.567293
+mean square error: 25.315000
+mean norm of w: 74.474020
+norm of inc: 0.548393
+mean square error: 25.535000
+mean norm of w: 74.487964
+norm of inc: 0.525157
+mean square error: 23.480000
+mean norm of w: 74.502479
+norm of inc: 0.530801
+mean square error: 22.600000
+mean norm of w: 74.516830
+norm of inc: 0.569015
+mean square error: 21.915000
+mean norm of w: 74.530656
+norm of inc: 0.585294
+mean square error: 23.125000
+mean norm of w: 74.543687
+norm of inc: 0.632449
+mean square error: 26.090000
+mean norm of w: 74.555504
+norm of inc: 0.575714
+mean square error: 29.410000
+mean norm of w: 74.568637
+norm of inc: 0.545923
+mean square error: 27.585000
+mean norm of w: 74.582748
+norm of inc: 0.567511
+mean square error: 22.195000
+mean norm of w: 74.597500
+norm of inc: 0.592126
+mean square error: 21.850000
+mean norm of w: 74.610906
+norm of inc: 0.639831
+mean square error: 23.220000
+mean norm of w: 74.622744
+norm of inc: 0.632689
+mean square error: 26.350000
+mean norm of w: 74.635479
+norm of inc: 0.573200
+mean square error: 27.265000
+mean norm of w: 74.649835
+norm of inc: 0.561607
+mean square error: 24.305000
+mean norm of w: 74.664890
+norm of inc: 0.569790
+mean square error: 20.415000
+mean norm of w: 74.679213
+norm of inc: 0.617514
+mean square error: 20.010000
+mean norm of w: 74.692114
+norm of inc: 0.621820
+mean square error: 22.915000
+mean norm of w: 74.704198
+norm of inc: 0.624949
+mean square error: 24.310000
+mean norm of w: 74.716741
+norm of inc: 0.593375
+mean square error: 25.830000
+mean norm of w: 74.730516
+norm of inc: 0.556657
+mean square error: 26.255000
+mean norm of w: 74.745055
+norm of inc: 0.542377
+mean square error: 24.360000
+mean norm of w: 74.759544
+norm of inc: 0.583120
+mean square error: 25.295000
+mean norm of w: 74.771486
+norm of inc: 0.604522
+mean square error: 27.900000
+mean norm of w: 74.782812
+norm of inc: 0.565304
+mean square error: 30.140000
+mean norm of w: 74.794388
+norm of inc: 0.527945
+mean square error: 30.730000
+mean norm of w: 74.807036
+norm of inc: 0.511037
+mean square error: 27.425000
+mean norm of w: 74.820555
+norm of inc: 0.513455
+mean square error: 23.590000
+mean norm of w: 74.834325
+norm of inc: 0.543516
+mean square error: 21.300000
+mean norm of w: 74.847382
+norm of inc: 0.621897
+mean square error: 24.315000
+mean norm of w: 74.857636
+norm of inc: 0.594717
+mean square error: 27.240000
+mean norm of w: 74.868988
+norm of inc: 0.547523
+mean square error: 27.960000
+mean norm of w: 74.881555
+norm of inc: 0.533301
+mean square error: 26.575000
+mean norm of w: 74.894328
+norm of inc: 0.540858
+mean square error: 24.595000
+mean norm of w: 74.906230
+norm of inc: 0.558260
+mean square error: 23.230000
+mean norm of w: 74.918045
+norm of inc: 0.555138
+mean square error: 23.050000
+mean norm of w: 74.929781
+norm of inc: 0.573289
+mean square error: 20.315000
+mean norm of w: 74.941218
+norm of inc: 0.583143
+mean square error: 19.850000
+mean norm of w: 74.953675
+norm of inc: 0.586747
+mean square error: 20.700000
+mean norm of w: 74.965950
+norm of inc: 0.629844
+mean square error: 21.595000
+mean norm of w: 74.976545
+norm of inc: 0.587545
+mean square error: 23.530000
+mean norm of w: 74.988702
+norm of inc: 0.578778
+epoch 7
+mean square error: 21.315000
+mean norm of w: 75.001378
+norm of inc: 0.612720
+mean square error: 19.040000
+mean norm of w: 75.014358
+norm of inc: 0.656248
+mean square error: 21.400000
+mean norm of w: 75.026674
+norm of inc: 0.635024
+mean square error: 23.860000
+mean norm of w: 75.040137
+norm of inc: 0.606322
+mean square error: 26.705000
+mean norm of w: 75.054380
+norm of inc: 0.568969
+mean square error: 26.925000
+mean norm of w: 75.069329
+norm of inc: 0.545677
+mean square error: 23.205000
+mean norm of w: 75.084420
+norm of inc: 0.563522
+mean square error: 22.875000
+mean norm of w: 75.099192
+norm of inc: 0.580091
+mean square error: 22.140000
+mean norm of w: 75.114439
+norm of inc: 0.589758
+mean square error: 23.515000
+mean norm of w: 75.127615
+norm of inc: 0.604818
+mean square error: 25.125000
+mean norm of w: 75.140062
+norm of inc: 0.576988
+mean square error: 27.350000
+mean norm of w: 75.153152
+norm of inc: 0.556773
+mean square error: 26.490000
+mean norm of w: 75.166850
+norm of inc: 0.571278
+mean square error: 22.495000
+mean norm of w: 75.181191
+norm of inc: 0.572734
+mean square error: 21.420000
+mean norm of w: 75.194990
+norm of inc: 0.665925
+mean square error: 22.960000
+mean norm of w: 75.206446
+norm of inc: 0.632159
+mean square error: 26.575000
+mean norm of w: 75.219455
+norm of inc: 0.578740
+mean square error: 27.170000
+mean norm of w: 75.233722
+norm of inc: 0.557598
+mean square error: 24.865000
+mean norm of w: 75.248530
+norm of inc: 0.582117
+mean square error: 20.245000
+mean norm of w: 75.263455
+norm of inc: 0.601550
+mean square error: 20.315000
+mean norm of w: 75.276028
+norm of inc: 0.613541
+mean square error: 23.260000
+mean norm of w: 75.287563
+norm of inc: 0.605767
+mean square error: 24.305000
+mean norm of w: 75.299558
+norm of inc: 0.571316
+mean square error: 25.620000
+mean norm of w: 75.312908
+norm of inc: 0.549071
+mean square error: 23.780000
+mean norm of w: 75.326948
+norm of inc: 0.542468
+mean square error: 22.505000
+mean norm of w: 75.340829
+norm of inc: 0.556435
+mean square error: 23.465000
+mean norm of w: 75.354131
+norm of inc: 0.612287
+mean square error: 27.325000
+mean norm of w: 75.366513
+norm of inc: 0.541248
+mean square error: 29.225000
+mean norm of w: 75.379624
+norm of inc: 0.508996
+mean square error: 29.165000
+mean norm of w: 75.392594
+norm of inc: 0.511276
+mean square error: 26.315000
+mean norm of w: 75.405376
+norm of inc: 0.514249
+mean square error: 23.835000
+mean norm of w: 75.417837
+norm of inc: 0.543122
+mean square error: 21.755000
+mean norm of w: 75.430020
+norm of inc: 0.579328
+mean square error: 22.910000
+mean norm of w: 75.440520
+norm of inc: 0.610968
+mean square error: 25.055000
+mean norm of w: 75.450734
+norm of inc: 0.580608
+mean square error: 27.245000
+mean norm of w: 75.462256
+norm of inc: 0.539886
+mean square error: 26.530000
+mean norm of w: 75.475562
+norm of inc: 0.541017
+mean square error: 23.375000
+mean norm of w: 75.489022
+norm of inc: 0.559569
+mean square error: 21.780000
+mean norm of w: 75.501577
+norm of inc: 0.569642
+mean square error: 22.490000
+mean norm of w: 75.514212
+norm of inc: 0.546003
+mean square error: 20.650000
+mean norm of w: 75.526795
+norm of inc: 0.578379
+mean square error: 19.405000
+mean norm of w: 75.539171
+norm of inc: 0.580666
+mean square error: 19.385000
+mean norm of w: 75.551441
+norm of inc: 0.610729
+mean square error: 19.995000
+mean norm of w: 75.562944
+norm of inc: 0.598967
+mean square error: 24.005000
+mean norm of w: 75.574459
+norm of inc: 0.563628
+epoch 8
+mean square error: 22.810000
+mean norm of w: 75.587330
+norm of inc: 0.599436
+mean square error: 19.045000
+mean norm of w: 75.601481
+norm of inc: 0.613204
+mean square error: 20.240000
+mean norm of w: 75.615078
+norm of inc: 0.682199
+mean square error: 22.675000
+mean norm of w: 75.627230
+norm of inc: 0.619597
+mean square error: 27.470000
+mean norm of w: 75.641377
+norm of inc: 0.574395
+mean square error: 26.155000
+mean norm of w: 75.656427
+norm of inc: 0.553845
+mean square error: 23.630000
+mean norm of w: 75.671869
+norm of inc: 0.560903
+mean square error: 21.805000
+mean norm of w: 75.686957
+norm of inc: 0.576534
+mean square error: 21.465000
+mean norm of w: 75.701899
+norm of inc: 0.566347
+mean square error: 22.145000
+mean norm of w: 75.716236
+norm of inc: 0.609524
+mean square error: 24.565000
+mean norm of w: 75.728536
+norm of inc: 0.591937
+mean square error: 26.225000
+mean norm of w: 75.741188
+norm of inc: 0.553133
+mean square error: 25.675000
+mean norm of w: 75.755102
+norm of inc: 0.552085
+mean square error: 22.860000
+mean norm of w: 75.768909
+norm of inc: 0.579031
+mean square error: 20.735000
+mean norm of w: 75.782693
+norm of inc: 0.632660
+mean square error: 21.665000
+mean norm of w: 75.794386
+norm of inc: 0.648396
+mean square error: 25.040000
+mean norm of w: 75.806392
+norm of inc: 0.580970
+mean square error: 27.470000
+mean norm of w: 75.819938
+norm of inc: 0.554519
+mean square error: 24.525000
+mean norm of w: 75.833601
+norm of inc: 0.574549
+mean square error: 20.785000
+mean norm of w: 75.847435
+norm of inc: 0.599914
+mean square error: 19.660000
+mean norm of w: 75.860840
+norm of inc: 0.679561
+mean square error: 22.660000
+mean norm of w: 75.872440
+norm of inc: 0.624577
+mean square error: 25.320000
+mean norm of w: 75.885530
+norm of inc: 0.578703
+mean square error: 26.580000
+mean norm of w: 75.899052
+norm of inc: 0.563556
+mean square error: 24.850000
+mean norm of w: 75.912915
+norm of inc: 0.566639
+mean square error: 23.710000
+mean norm of w: 75.926432
+norm of inc: 0.585842
+mean square error: 23.780000
+mean norm of w: 75.939136
+norm of inc: 0.612616
+mean square error: 26.205000
+mean norm of w: 75.950556
+norm of inc: 0.600115
+mean square error: 29.215000
+mean norm of w: 75.962022
+norm of inc: 0.546992
+mean square error: 29.945000
+mean norm of w: 75.974689
+norm of inc: 0.528635
+mean square error: 26.380000
+mean norm of w: 75.987479
+norm of inc: 0.529591
+mean square error: 23.385000
+mean norm of w: 76.000968
+norm of inc: 0.546527
+mean square error: 21.275000
+mean norm of w: 76.012932
+norm of inc: 0.578955
+mean square error: 22.260000
+mean norm of w: 76.023820
+norm of inc: 0.591421
+mean square error: 24.735000
+mean norm of w: 76.033706
+norm of inc: 0.577256
+mean square error: 26.640000
+mean norm of w: 76.044554
+norm of inc: 0.549263
+mean square error: 26.330000
+mean norm of w: 76.056881
+norm of inc: 0.535473
+mean square error: 23.845000
+mean norm of w: 76.069763
+norm of inc: 0.537516
+mean square error: 22.215000
+mean norm of w: 76.082229
+norm of inc: 0.581544
+mean square error: 22.710000
+mean norm of w: 76.092945
+norm of inc: 0.565917
+mean square error: 20.220000
+mean norm of w: 76.104773
+norm of inc: 0.571817
+mean square error: 19.365000
+mean norm of w: 76.117084
+norm of inc: 0.595693
+mean square error: 18.810000
+mean norm of w: 76.129033
+norm of inc: 0.576959
+mean square error: 19.440000
+mean norm of w: 76.141773
+norm of inc: 0.589623
+mean square error: 20.670000
+mean norm of w: 76.154710
+norm of inc: 0.573809
+epoch 9
+mean square error: 20.765000
+mean norm of w: 76.168287
+norm of inc: 0.562067
+mean square error: 19.405000
+mean norm of w: 76.182878
+norm of inc: 0.578549
+mean square error: 19.745000
+mean norm of w: 76.198246
+norm of inc: 0.656718
+mean square error: 22.595000
+mean norm of w: 76.210670
+norm of inc: 0.613994
+mean square error: 27.795000
+mean norm of w: 76.224816
+norm of inc: 0.554746
+mean square error: 28.115000
+mean norm of w: 76.240016
+norm of inc: 0.542396
+mean square error: 23.985000
+mean norm of w: 76.255979
+norm of inc: 0.561567
+mean square error: 22.015000
+mean norm of w: 76.272190
+norm of inc: 0.609433
+mean square error: 20.565000
+mean norm of w: 76.286656
+norm of inc: 0.618599
+mean square error: 22.040000
+mean norm of w: 76.301615
+norm of inc: 0.623357
+mean square error: 24.275000
+mean norm of w: 76.315752
+norm of inc: 0.593617
+mean square error: 27.260000
+mean norm of w: 76.330527
+norm of inc: 0.552327
+mean square error: 25.595000
+mean norm of w: 76.345424
+norm of inc: 0.561843
+mean square error: 22.210000
+mean norm of w: 76.360586
+norm of inc: 0.589783
+mean square error: 19.715000
+mean norm of w: 76.374938
+norm of inc: 0.613815
+mean square error: 21.495000
+mean norm of w: 76.386977
+norm of inc: 0.659834
+mean square error: 25.240000
+mean norm of w: 76.398348
+norm of inc: 0.602110
+mean square error: 28.375000
+mean norm of w: 76.411438
+norm of inc: 0.555821
+mean square error: 26.715000
+mean norm of w: 76.425711
+norm of inc: 0.562303
+mean square error: 22.410000
+mean norm of w: 76.440544
+norm of inc: 0.587127
+mean square error: 19.070000
+mean norm of w: 76.454085
+norm of inc: 0.634538
+mean square error: 20.845000
+mean norm of w: 76.466300
+norm of inc: 0.708719
+mean square error: 23.545000
+mean norm of w: 76.476547
+norm of inc: 0.638084
+mean square error: 29.030000
+mean norm of w: 76.488634
+norm of inc: 0.590423
+mean square error: 27.250000
+mean norm of w: 76.501695
+norm of inc: 0.580279
+mean square error: 24.280000
+mean norm of w: 76.515368
+norm of inc: 0.568631
+mean square error: 23.315000
+mean norm of w: 76.527809
+norm of inc: 0.623245
+mean square error: 25.220000
+mean norm of w: 76.537521
+norm of inc: 0.643623
+mean square error: 28.595000
+mean norm of w: 76.546995
+norm of inc: 0.586375
+mean square error: 31.155000
+mean norm of w: 76.558387
+norm of inc: 0.541949
+mean square error: 29.920000
+mean norm of w: 76.570090
+norm of inc: 0.542736
+mean square error: 25.700000
+mean norm of w: 76.581975
+norm of inc: 0.560551
+mean square error: 22.490000
+mean norm of w: 76.592745
+norm of inc: 0.609609
+mean square error: 22.615000
+mean norm of w: 76.602134
+norm of inc: 0.607085
+mean square error: 24.905000
+mean norm of w: 76.610459
+norm of inc: 0.589735
+mean square error: 25.980000
+mean norm of w: 76.619955
+norm of inc: 0.570393
+mean square error: 26.355000
+mean norm of w: 76.629968
+norm of inc: 0.563937
+mean square error: 25.030000
+mean norm of w: 76.640171
+norm of inc: 0.570918
+mean square error: 22.600000
+mean norm of w: 76.650876
+norm of inc: 0.590985
+mean square error: 21.190000
+mean norm of w: 76.661388
+norm of inc: 0.594016
+mean square error: 19.710000
+mean norm of w: 76.671444
+norm of inc: 0.596601
+mean square error: 19.785000
+mean norm of w: 76.682054
+norm of inc: 0.600111
+mean square error: 19.600000
+mean norm of w: 76.693664
+norm of inc: 0.604855
+mean square error: 19.620000
+mean norm of w: 76.704319
+norm of inc: 0.623729
+mean square error: 22.360000
+mean norm of w: 76.715096
+norm of inc: 0.585113
+epoch 10
+mean square error: 21.795000
+mean norm of w: 76.727657
+norm of inc: 0.594462
+mean square error: 19.765000
+mean norm of w: 76.741390
+norm of inc: 0.601200
+mean square error: 20.275000
+mean norm of w: 76.754740
+norm of inc: 0.616763
+mean square error: 20.825000
+mean norm of w: 76.767458
+norm of inc: 0.645728
+mean square error: 25.410000
+mean norm of w: 76.779691
+norm of inc: 0.598883
+mean square error: 27.935000
+mean norm of w: 76.793270
+norm of inc: 0.552204
+mean square error: 26.120000
+mean norm of w: 76.807938
+norm of inc: 0.555242
+mean square error: 23.710000
+mean norm of w: 76.823060
+norm of inc: 0.579867
+mean square error: 21.025000
+mean norm of w: 76.838155
+norm of inc: 0.617908
+mean square error: 22.265000
+mean norm of w: 76.851261
+norm of inc: 0.645189
+mean square error: 25.065000
+mean norm of w: 76.863158
+norm of inc: 0.628774
+mean square error: 27.555000
+mean norm of w: 76.875728
+norm of inc: 0.606864
+mean square error: 27.145000
+mean norm of w: 76.888640
+norm of inc: 0.580301
+mean square error: 25.035000
+mean norm of w: 76.902180
+norm of inc: 0.595339
+mean square error: 21.640000
+mean norm of w: 76.915961
+norm of inc: 0.610123
+mean square error: 21.125000
+mean norm of w: 76.927872
+norm of inc: 0.655086
+mean square error: 24.440000
+mean norm of w: 76.938444
+norm of inc: 0.632528
+mean square error: 27.020000
+mean norm of w: 76.949845
+norm of inc: 0.586054
+mean square error: 28.055000
+mean norm of w: 76.962377
+norm of inc: 0.579761
+mean square error: 25.015000
+mean norm of w: 76.975994
+norm of inc: 0.610755
+mean square error: 19.860000
+mean norm of w: 76.990759
+norm of inc: 0.633225
+mean square error: 21.065000
+mean norm of w: 77.003937
+norm of inc: 0.678002
+mean square error: 22.655000
+mean norm of w: 77.014934
+norm of inc: 0.629217
+mean square error: 27.350000
+mean norm of w: 77.027029
+norm of inc: 0.576443
+mean square error: 27.715000
+mean norm of w: 77.039665
+norm of inc: 0.564578
+mean square error: 25.475000
+mean norm of w: 77.052092
+norm of inc: 0.557314
+mean square error: 24.055000
+mean norm of w: 77.063066
+norm of inc: 0.584987
+mean square error: 25.235000
+mean norm of w: 77.073174
+norm of inc: 0.607281
+mean square error: 28.260000
+mean norm of w: 77.082487
+norm of inc: 0.576964
+mean square error: 30.755000
+mean norm of w: 77.092135
+norm of inc: 0.540681
+mean square error: 29.610000
+mean norm of w: 77.102351
+norm of inc: 0.543678
+mean square error: 25.830000
+mean norm of w: 77.113438
+norm of inc: 0.574567
+mean square error: 21.655000
+mean norm of w: 77.125241
+norm of inc: 0.603346
+mean square error: 21.540000
+mean norm of w: 77.135284
+norm of inc: 0.647166
+mean square error: 24.075000
+mean norm of w: 77.144194
+norm of inc: 0.615707
+mean square error: 27.325000
+mean norm of w: 77.154088
+norm of inc: 0.577934
+mean square error: 27.665000
+mean norm of w: 77.165554
+norm of inc: 0.570175
+mean square error: 25.290000
+mean norm of w: 77.178047
+norm of inc: 0.565855
+mean square error: 22.305000
+mean norm of w: 77.190281
+norm of inc: 0.590610
+mean square error: 21.270000
+mean norm of w: 77.200908
+norm of inc: 0.602662
+mean square error: 18.170000
+mean norm of w: 77.211004
+norm of inc: 0.602517
+mean square error: 19.280000
+mean norm of w: 77.220804
+norm of inc: 0.620826
+mean square error: 20.640000
+mean norm of w: 77.230076
+norm of inc: 0.623035
+mean square error: 20.005000
+mean norm of w: 77.240285
+norm of inc: 0.619068
+mean square error: 20.865000
+mean norm of w: 77.250211
+norm of inc: 0.629835
+epoch 11
+mean square error: 21.085000
+mean norm of w: 77.260521
+norm of inc: 0.623112
+mean square error: 20.235000
+mean norm of w: 77.271971
+norm of inc: 0.616832
+mean square error: 20.215000
+mean norm of w: 77.283786
+norm of inc: 0.608548
+mean square error: 20.595000
+mean norm of w: 77.295075
+norm of inc: 0.673016
+mean square error: 26.755000
+mean norm of w: 77.305234
+norm of inc: 0.609346
+mean square error: 28.500000
+mean norm of w: 77.317035
+norm of inc: 0.564105
+mean square error: 27.740000
+mean norm of w: 77.329772
+norm of inc: 0.561430
+mean square error: 25.285000
+mean norm of w: 77.343378
+norm of inc: 0.583073
+mean square error: 22.715000
+mean norm of w: 77.357156
+norm of inc: 0.623432
+mean square error: 22.175000
+mean norm of w: 77.369343
+norm of inc: 0.631493
+mean square error: 24.540000
+mean norm of w: 77.380154
+norm of inc: 0.620003
+mean square error: 27.005000
+mean norm of w: 77.390662
+norm of inc: 0.591865
+mean square error: 26.330000
+mean norm of w: 77.401519
+norm of inc: 0.589417
+mean square error: 23.605000
+mean norm of w: 77.412934
+norm of inc: 0.594260
+mean square error: 20.795000
+mean norm of w: 77.424271
+norm of inc: 0.612552
+mean square error: 19.685000
+mean norm of w: 77.434598
+norm of inc: 0.674571
+mean square error: 24.595000
+mean norm of w: 77.443077
+norm of inc: 0.627173
+mean square error: 28.520000
+mean norm of w: 77.453611
+norm of inc: 0.563921
+mean square error: 28.490000
+mean norm of w: 77.465557
+norm of inc: 0.558930
+mean square error: 24.925000
+mean norm of w: 77.478158
+norm of inc: 0.580042
+mean square error: 20.700000
+mean norm of w: 77.491054
+norm of inc: 0.601497
+mean square error: 20.690000
+mean norm of w: 77.500892
+norm of inc: 0.681896
+mean square error: 23.000000
+mean norm of w: 77.509465
+norm of inc: 0.638524
+mean square error: 25.235000
+mean norm of w: 77.519700
+norm of inc: 0.592332
+mean square error: 26.305000
+mean norm of w: 77.531799
+norm of inc: 0.565489
+mean square error: 25.070000
+mean norm of w: 77.544679
+norm of inc: 0.543992
+mean square error: 23.870000
+mean norm of w: 77.557311
+norm of inc: 0.557439
+mean square error: 25.040000
+mean norm of w: 77.568142
+norm of inc: 0.584044
+mean square error: 27.320000
+mean norm of w: 77.577740
+norm of inc: 0.550052
+mean square error: 29.875000
+mean norm of w: 77.588280
+norm of inc: 0.519231
+mean square error: 28.415000
+mean norm of w: 77.599536
+norm of inc: 0.519357
+mean square error: 26.325000
+mean norm of w: 77.611419
+norm of inc: 0.529625
+mean square error: 22.735000
+mean norm of w: 77.623314
+norm of inc: 0.574653
+mean square error: 20.805000
+mean norm of w: 77.634302
+norm of inc: 0.606449
+mean square error: 22.915000
+mean norm of w: 77.643108
+norm of inc: 0.621870
+mean square error: 26.330000
+mean norm of w: 77.651875
+norm of inc: 0.580325
+mean square error: 26.730000
+mean norm of w: 77.662418
+norm of inc: 0.554963
+mean square error: 25.395000
+mean norm of w: 77.674148
+norm of inc: 0.548772
+mean square error: 22.700000
+mean norm of w: 77.686566
+norm of inc: 0.556532
+mean square error: 20.730000
+mean norm of w: 77.698365
+norm of inc: 0.585834
+mean square error: 20.365000
+mean norm of w: 77.708655
+norm of inc: 0.587432
+mean square error: 19.185000
+mean norm of w: 77.719031
+norm of inc: 0.592583
+mean square error: 18.830000
+mean norm of w: 77.729202
+norm of inc: 0.608193
+mean square error: 18.265000
+mean norm of w: 77.738899
+norm of inc: 0.624592
+mean square error: 20.475000
+mean norm of w: 77.748833
+norm of inc: 0.604243
+epoch 12
+mean square error: 20.970000
+mean norm of w: 77.759694
+norm of inc: 0.591874
+mean square error: 20.760000
+mean norm of w: 77.771561
+norm of inc: 0.585419
+mean square error: 20.055000
+mean norm of w: 77.784533
+norm of inc: 0.630397
+mean square error: 20.695000
+mean norm of w: 77.795778
+norm of inc: 0.638100
+mean square error: 24.500000
+mean norm of w: 77.807762
+norm of inc: 0.589469
+mean square error: 25.650000
+mean norm of w: 77.820340
+norm of inc: 0.562518
+mean square error: 24.995000
+mean norm of w: 77.833054
+norm of inc: 0.558274
+mean square error: 23.085000
+mean norm of w: 77.846157
+norm of inc: 0.567610
+mean square error: 20.710000
+mean norm of w: 77.859022
+norm of inc: 0.575185
+mean square error: 20.560000
+mean norm of w: 77.871866
+norm of inc: 0.648877
+mean square error: 23.220000
+mean norm of w: 77.882520
+norm of inc: 0.615044
+mean square error: 27.985000
+mean norm of w: 77.894381
+norm of inc: 0.582440
+mean square error: 27.345000
+mean norm of w: 77.906927
+norm of inc: 0.562304
+mean square error: 24.120000
+mean norm of w: 77.920217
+norm of inc: 0.572628
+mean square error: 21.080000
+mean norm of w: 77.932827
+norm of inc: 0.622037
+mean square error: 20.585000
+mean norm of w: 77.943571
+norm of inc: 0.641010
+mean square error: 23.000000
+mean norm of w: 77.954048
+norm of inc: 0.637106
+mean square error: 26.185000
+mean norm of w: 77.965010
+norm of inc: 0.572305
+mean square error: 27.465000
+mean norm of w: 77.977049
+norm of inc: 0.553916
+mean square error: 24.415000
+mean norm of w: 77.989505
+norm of inc: 0.586469
+mean square error: 19.765000
+mean norm of w: 78.002329
+norm of inc: 0.596890
+mean square error: 19.715000
+mean norm of w: 78.015057
+norm of inc: 0.734189
+mean square error: 22.480000
+mean norm of w: 78.024272
+norm of inc: 0.668678
+mean square error: 28.270000
+mean norm of w: 78.035874
+norm of inc: 0.603884
+mean square error: 29.405000
+mean norm of w: 78.048973
+norm of inc: 0.583924
+mean square error: 27.345000
+mean norm of w: 78.062860
+norm of inc: 0.560808
+mean square error: 25.660000
+mean norm of w: 78.076915
+norm of inc: 0.549102
+mean square error: 25.055000
+mean norm of w: 78.088695
+norm of inc: 0.594028
+mean square error: 26.300000
+mean norm of w: 78.097601
+norm of inc: 0.605912
+mean square error: 28.355000
+mean norm of w: 78.106248
+norm of inc: 0.571074
+mean square error: 28.915000
+mean norm of w: 78.115389
+norm of inc: 0.542710
+mean square error: 27.710000
+mean norm of w: 78.125888
+norm of inc: 0.550447
+mean square error: 23.860000
+mean norm of w: 78.137220
+norm of inc: 0.572093
+mean square error: 21.530000
+mean norm of w: 78.149284
+norm of inc: 0.593843
+mean square error: 22.165000
+mean norm of w: 78.159124
+norm of inc: 0.633008
+mean square error: 25.820000
+mean norm of w: 78.168099
+norm of inc: 0.585174
+mean square error: 27.365000
+mean norm of w: 78.178674
+norm of inc: 0.552850
+mean square error: 26.860000
+mean norm of w: 78.190363
+norm of inc: 0.545620
+mean square error: 24.345000
+mean norm of w: 78.202725
+norm of inc: 0.560280
+mean square error: 21.240000
+mean norm of w: 78.214819
+norm of inc: 0.588682
+mean square error: 19.005000
+mean norm of w: 78.226302
+norm of inc: 0.606141
+mean square error: 19.325000
+mean norm of w: 78.236799
+norm of inc: 0.609717
+mean square error: 18.720000
+mean norm of w: 78.247763
+norm of inc: 0.613566
+mean square error: 17.370000
+mean norm of w: 78.258731
+norm of inc: 0.635333
+mean square error: 19.820000
+mean norm of w: 78.268241
+norm of inc: 0.622632
+epoch 13
+mean square error: 21.630000
+mean norm of w: 78.278461
+norm of inc: 0.596630
+mean square error: 21.310000
+mean norm of w: 78.289909
+norm of inc: 0.602263
+mean square error: 20.115000
+mean norm of w: 78.301880
+norm of inc: 0.611999
+mean square error: 20.085000
+mean norm of w: 78.313372
+norm of inc: 0.679618
+mean square error: 23.975000
+mean norm of w: 78.322382
+norm of inc: 0.644991
+mean square error: 27.110000
+mean norm of w: 78.333218
+norm of inc: 0.589847
+mean square error: 25.940000
+mean norm of w: 78.345843
+norm of inc: 0.567142
+mean square error: 23.945000
+mean norm of w: 78.359588
+norm of inc: 0.577306
+mean square error: 21.035000
+mean norm of w: 78.373599
+norm of inc: 0.600310
+mean square error: 21.100000
+mean norm of w: 78.386439
+norm of inc: 0.601887
+mean square error: 21.765000
+mean norm of w: 78.398426
+norm of inc: 0.648336
+mean square error: 25.760000
+mean norm of w: 78.409226
+norm of inc: 0.609072
+mean square error: 27.595000
+mean norm of w: 78.420720
+norm of inc: 0.587986
+mean square error: 25.385000
+mean norm of w: 78.432244
+norm of inc: 0.591217
+mean square error: 21.880000
+mean norm of w: 78.444173
+norm of inc: 0.619120
+mean square error: 19.620000
+mean norm of w: 78.456173
+norm of inc: 0.800004
+mean square error: 23.955000
+mean norm of w: 78.464499
+norm of inc: 0.681827
+mean square error: 29.655000
+mean norm of w: 78.476406
+norm of inc: 0.600822
+mean square error: 30.500000
+mean norm of w: 78.489526
+norm of inc: 0.588905
+mean square error: 27.380000
+mean norm of w: 78.502345
+norm of inc: 0.590118
+mean square error: 22.860000
+mean norm of w: 78.514913
+norm of inc: 0.617140
+mean square error: 21.065000
+mean norm of w: 78.526207
+norm of inc: 0.635425
+mean square error: 20.755000
+mean norm of w: 78.535769
+norm of inc: 0.725042
+mean square error: 25.075000
+mean norm of w: 78.542747
+norm of inc: 0.666658
+mean square error: 29.285000
+mean norm of w: 78.551846
+norm of inc: 0.610142
+mean square error: 29.635000
+mean norm of w: 78.562521
+norm of inc: 0.592903
+mean square error: 26.625000
+mean norm of w: 78.574407
+norm of inc: 0.556595
+mean square error: 25.715000
+mean norm of w: 78.585917
+norm of inc: 0.579629
+mean square error: 26.625000
+mean norm of w: 78.594504
+norm of inc: 0.590703
+mean square error: 28.545000
+mean norm of w: 78.602220
+norm of inc: 0.559241
+mean square error: 29.075000
+mean norm of w: 78.610282
+norm of inc: 0.534095
+mean square error: 28.895000
+mean norm of w: 78.618912
+norm of inc: 0.530059
+mean square error: 25.345000
+mean norm of w: 78.627927
+norm of inc: 0.552645
+mean square error: 22.340000
+mean norm of w: 78.636672
+norm of inc: 0.576049
+mean square error: 22.275000
+mean norm of w: 78.644121
+norm of inc: 0.630994
+mean square error: 25.390000
+mean norm of w: 78.649675
+norm of inc: 0.615622
+mean square error: 27.945000
+mean norm of w: 78.656742
+norm of inc: 0.573356
+mean square error: 27.610000
+mean norm of w: 78.665029
+norm of inc: 0.568828
+mean square error: 25.025000
+mean norm of w: 78.674324
+norm of inc: 0.588021
+mean square error: 21.880000
+mean norm of w: 78.683886
+norm of inc: 0.614743
+mean square error: 19.255000
+mean norm of w: 78.692713
+norm of inc: 0.626346
+mean square error: 19.695000
+mean norm of w: 78.701001
+norm of inc: 0.608665
+mean square error: 19.695000
+mean norm of w: 78.709539
+norm of inc: 0.624035
+mean square error: 19.320000
+mean norm of w: 78.717804
+norm of inc: 0.631242
+mean square error: 19.605000
+mean norm of w: 78.726648
+norm of inc: 0.661236
+epoch 14
+mean square error: 19.650000
+mean norm of w: 78.734758
+norm of inc: 0.621102
+mean square error: 21.145000
+mean norm of w: 78.744428
+norm of inc: 0.597947
+mean square error: 21.490000
+mean norm of w: 78.755533
+norm of inc: 0.587622
+mean square error: 19.795000
+mean norm of w: 78.766958
+norm of inc: 0.693195
+mean square error: 23.490000
+mean norm of w: 78.776144
+norm of inc: 0.645513
+mean square error: 27.290000
+mean norm of w: 78.787529
+norm of inc: 0.574686
+mean square error: 27.450000
+mean norm of w: 78.800344
+norm of inc: 0.563440
+mean square error: 25.600000
+mean norm of w: 78.813883
+norm of inc: 0.574461
+mean square error: 22.680000
+mean norm of w: 78.827462
+norm of inc: 0.589142
+mean square error: 20.740000
+mean norm of w: 78.840606
+norm of inc: 0.620616
+mean square error: 21.855000
+mean norm of w: 78.852485
+norm of inc: 0.641143
+mean square error: 25.215000
+mean norm of w: 78.863291
+norm of inc: 0.605903
+mean square error: 27.570000
+mean norm of w: 78.875112
+norm of inc: 0.576573
+mean square error: 24.935000
+mean norm of w: 78.887917
+norm of inc: 0.578588
+mean square error: 21.650000
+mean norm of w: 78.901133
+norm of inc: 0.583641
+mean square error: 20.445000
+mean norm of w: 78.912871
+norm of inc: 0.608469
+mean square error: 21.000000
+mean norm of w: 78.924237
+norm of inc: 0.693677
+mean square error: 25.500000
+mean norm of w: 78.933561
+norm of inc: 0.628811
+mean square error: 30.165000
+mean norm of w: 78.944649
+norm of inc: 0.568136
+mean square error: 29.795000
+mean norm of w: 78.956100
+norm of inc: 0.574467
+mean square error: 26.015000
+mean norm of w: 78.967558
+norm of inc: 0.593987
+mean square error: 21.975000
+mean norm of w: 78.978985
+norm of inc: 0.625857
+mean square error: 20.855000
+mean norm of w: 78.987385
+norm of inc: 0.706499
+mean square error: 23.610000
+mean norm of w: 78.993890
+norm of inc: 0.680556
+mean square error: 28.030000
+mean norm of w: 79.001882
+norm of inc: 0.613019
+mean square error: 29.075000
+mean norm of w: 79.011480
+norm of inc: 0.575195
+mean square error: 28.355000
+mean norm of w: 79.021841
+norm of inc: 0.555835
+mean square error: 26.450000
+mean norm of w: 79.032225
+norm of inc: 0.559341
+mean square error: 26.700000
+mean norm of w: 79.041711
+norm of inc: 0.555289
+mean square error: 28.440000
+mean norm of w: 79.050636
+norm of inc: 0.533560
+mean square error: 27.115000
+mean norm of w: 79.059468
+norm of inc: 0.521113
+mean square error: 26.160000
+mean norm of w: 79.068462
+norm of inc: 0.542793
+mean square error: 23.320000
+mean norm of w: 79.078104
+norm of inc: 0.573521
+mean square error: 21.595000
+mean norm of w: 79.088590
+norm of inc: 0.587088
+mean square error: 20.640000
+mean norm of w: 79.098059
+norm of inc: 0.627894
+mean square error: 23.765000
+mean norm of w: 79.106933
+norm of inc: 0.589029
+mean square error: 27.090000
+mean norm of w: 79.116853
+norm of inc: 0.545260
+mean square error: 27.520000
+mean norm of w: 79.126988
+norm of inc: 0.554960
+mean square error: 23.365000
+mean norm of w: 79.138293
+norm of inc: 0.558894
+mean square error: 20.970000
+mean norm of w: 79.149784
+norm of inc: 0.588831
+mean square error: 18.000000
+mean norm of w: 79.159887
+norm of inc: 0.604384
+mean square error: 18.530000
+mean norm of w: 79.169816
+norm of inc: 0.611415
+mean square error: 18.515000
+mean norm of w: 79.179626
+norm of inc: 0.597240
+mean square error: 18.685000
+mean norm of w: 79.189515
+norm of inc: 0.599730
+mean square error: 18.715000
+mean norm of w: 79.199695
+norm of inc: 0.593535
+epoch 15
+mean square error: 19.035000
+mean norm of w: 79.209945
+norm of inc: 0.606906
+mean square error: 20.700000
+mean norm of w: 79.219864
+norm of inc: 0.590250
+mean square error: 21.990000
+mean norm of w: 79.231296
+norm of inc: 0.582091
+mean square error: 19.840000
+mean norm of w: 79.243662
+norm of inc: 0.601295
+mean square error: 21.105000
+mean norm of w: 79.254338
+norm of inc: 0.679406
+mean square error: 25.165000
+mean norm of w: 79.263166
+norm of inc: 0.611014
+mean square error: 27.845000
+mean norm of w: 79.274370
+norm of inc: 0.571269
+mean square error: 26.500000
+mean norm of w: 79.286613
+norm of inc: 0.570476
+mean square error: 23.185000
+mean norm of w: 79.299410
+norm of inc: 0.579086
+mean square error: 20.635000
+mean norm of w: 79.312425
+norm of inc: 0.641744
+mean square error: 22.335000
+mean norm of w: 79.324040
+norm of inc: 0.652109
+mean square error: 25.510000
+mean norm of w: 79.334304
+norm of inc: 0.622730
+mean square error: 26.975000
+mean norm of w: 79.344705
+norm of inc: 0.621953
+mean square error: 24.985000
+mean norm of w: 79.355622
+norm of inc: 0.612814
+mean square error: 22.285000
+mean norm of w: 79.367547
+norm of inc: 0.617458
+mean square error: 19.650000
+mean norm of w: 79.379443
+norm of inc: 0.654182
+mean square error: 22.160000
+mean norm of w: 79.389781
+norm of inc: 0.668090
+mean square error: 24.840000
+mean norm of w: 79.399744
+norm of inc: 0.624798
+mean square error: 27.715000
+mean norm of w: 79.411229
+norm of inc: 0.578322
+mean square error: 28.020000
+mean norm of w: 79.423783
+norm of inc: 0.559779
+mean square error: 25.910000
+mean norm of w: 79.436650
+norm of inc: 0.564403
+mean square error: 22.845000
+mean norm of w: 79.449187
+norm of inc: 0.591225
+mean square error: 20.150000
+mean norm of w: 79.459904
+norm of inc: 0.639184
+mean square error: 22.025000
+mean norm of w: 79.469315
+norm of inc: 0.638489
+mean square error: 25.910000
+mean norm of w: 79.478711
+norm of inc: 0.593543
+mean square error: 27.295000
+mean norm of w: 79.489402
+norm of inc: 0.555530
+mean square error: 26.235000
+mean norm of w: 79.501180
+norm of inc: 0.532097
+mean square error: 26.090000
+mean norm of w: 79.512890
+norm of inc: 0.533604
+mean square error: 25.365000
+mean norm of w: 79.523617
+norm of inc: 0.548022
+mean square error: 26.350000
+mean norm of w: 79.532982
+norm of inc: 0.530157
+mean square error: 26.880000
+mean norm of w: 79.542264
+norm of inc: 0.502114
+mean square error: 26.175000
+mean norm of w: 79.552499
+norm of inc: 0.514508
+mean square error: 23.435000
+mean norm of w: 79.563596
+norm of inc: 0.535260
+mean square error: 20.640000
+mean norm of w: 79.575155
+norm of inc: 0.551121
+mean square error: 20.980000
+mean norm of w: 79.585256
+norm of inc: 0.609475
+mean square error: 22.875000
+mean norm of w: 79.592992
+norm of inc: 0.599425
+mean square error: 26.155000
+mean norm of w: 79.602058
+norm of inc: 0.557576
+mean square error: 26.125000
+mean norm of w: 79.613166
+norm of inc: 0.540448
+mean square error: 23.410000
+mean norm of w: 79.625590
+norm of inc: 0.551938
+mean square error: 20.570000
+mean norm of w: 79.638881
+norm of inc: 0.568865
+mean square error: 17.680000
+mean norm of w: 79.650721
+norm of inc: 0.577879
+mean square error: 17.645000
+mean norm of w: 79.661959
+norm of inc: 0.588990
+mean square error: 19.325000
+mean norm of w: 79.672373
+norm of inc: 0.586965
+mean square error: 18.255000
+mean norm of w: 79.683086
+norm of inc: 0.588166
+mean square error: 18.210000
+mean norm of w: 79.693871
+norm of inc: 0.611975
+epoch 16
+mean square error: 18.985000
+mean norm of w: 79.703660
+norm of inc: 0.609189
+mean square error: 19.395000
+mean norm of w: 79.713962
+norm of inc: 0.588279
+mean square error: 20.380000
+mean norm of w: 79.724462
+norm of inc: 0.593787
+mean square error: 19.615000
+mean norm of w: 79.734667
+norm of inc: 0.594241
+mean square error: 20.880000
+mean norm of w: 79.744978
+norm of inc: 0.623024
+mean square error: 22.945000
+mean norm of w: 79.754018
+norm of inc: 0.605145
+mean square error: 24.830000
+mean norm of w: 79.763505
+norm of inc: 0.552757
+mean square error: 25.810000
+mean norm of w: 79.774385
+norm of inc: 0.540717
+mean square error: 23.175000
+mean norm of w: 79.785254
+norm of inc: 0.551995
+mean square error: 21.505000
+mean norm of w: 79.795825
+norm of inc: 0.586546
+mean square error: 21.045000
+mean norm of w: 79.805443
+norm of inc: 0.643744
+mean square error: 23.395000
+mean norm of w: 79.814464
+norm of inc: 0.614279
+mean square error: 25.775000
+mean norm of w: 79.824117
+norm of inc: 0.579670
+mean square error: 26.060000
+mean norm of w: 79.834357
+norm of inc: 0.584965
+mean square error: 23.510000
+mean norm of w: 79.845010
+norm of inc: 0.608534
+mean square error: 19.260000
+mean norm of w: 79.855785
+norm of inc: 0.642516
+mean square error: 20.625000
+mean norm of w: 79.864985
+norm of inc: 0.717932
+mean square error: 25.300000
+mean norm of w: 79.873254
+norm of inc: 0.649324
+mean square error: 30.035000
+mean norm of w: 79.883872
+norm of inc: 0.581934
+mean square error: 29.880000
+mean norm of w: 79.895677
+norm of inc: 0.584610
+mean square error: 26.175000
+mean norm of w: 79.907975
+norm of inc: 0.578887
+mean square error: 23.005000
+mean norm of w: 79.920081
+norm of inc: 0.634749
+mean square error: 19.595000
+mean norm of w: 79.930239
+norm of inc: 0.663444
+mean square error: 22.085000
+mean norm of w: 79.939390
+norm of inc: 0.667374
+mean square error: 25.260000
+mean norm of w: 79.947855
+norm of inc: 0.636574
+mean square error: 27.650000
+mean norm of w: 79.957307
+norm of inc: 0.592234
+mean square error: 29.195000
+mean norm of w: 79.968230
+norm of inc: 0.563961
+mean square error: 26.825000
+mean norm of w: 79.980185
+norm of inc: 0.543308
+mean square error: 25.170000
+mean norm of w: 79.990988
+norm of inc: 0.564059
+mean square error: 26.010000
+mean norm of w: 80.000189
+norm of inc: 0.555228
+mean square error: 27.190000
+mean norm of w: 80.009386
+norm of inc: 0.525925
+mean square error: 27.485000
+mean norm of w: 80.019334
+norm of inc: 0.519213
+mean square error: 24.765000
+mean norm of w: 80.029701
+norm of inc: 0.543190
+mean square error: 22.700000
+mean norm of w: 80.039979
+norm of inc: 0.572052
+mean square error: 20.650000
+mean norm of w: 80.050037
+norm of inc: 0.642901
+mean square error: 22.115000
+mean norm of w: 80.058063
+norm of inc: 0.665040
+mean square error: 26.130000
+mean norm of w: 80.066665
+norm of inc: 0.599355
+mean square error: 26.065000
+mean norm of w: 80.076934
+norm of inc: 0.567852
+mean square error: 25.270000
+mean norm of w: 80.088120
+norm of inc: 0.580816
+mean square error: 21.785000
+mean norm of w: 80.100150
+norm of inc: 0.603622
+mean square error: 18.135000
+mean norm of w: 80.111589
+norm of inc: 0.642259
+mean square error: 19.085000
+mean norm of w: 80.121649
+norm of inc: 0.636897
+mean square error: 19.640000
+mean norm of w: 80.132098
+norm of inc: 0.629464
+mean square error: 18.255000
+mean norm of w: 80.143068
+norm of inc: 0.644111
+mean square error: 17.840000
+mean norm of w: 80.154131
+norm of inc: 0.641259
+epoch 17
+mean square error: 17.980000
+mean norm of w: 80.165161
+norm of inc: 0.647323
+mean square error: 19.300000
+mean norm of w: 80.175787
+norm of inc: 0.619550
+mean square error: 21.745000
+mean norm of w: 80.187474
+norm of inc: 0.602304
+mean square error: 19.635000
+mean norm of w: 80.199576
+norm of inc: 0.588549
+mean square error: 20.850000
+mean norm of w: 80.210896
+norm of inc: 0.630040
+mean square error: 23.155000
+mean norm of w: 80.220671
+norm of inc: 0.611580
+mean square error: 24.300000
+mean norm of w: 80.230875
+norm of inc: 0.573191
+mean square error: 25.540000
+mean norm of w: 80.242239
+norm of inc: 0.568771
+mean square error: 22.260000
+mean norm of w: 80.254308
+norm of inc: 0.572143
+mean square error: 19.770000
+mean norm of w: 80.266606
+norm of inc: 0.592667
+mean square error: 20.525000
+mean norm of w: 80.277076
+norm of inc: 0.633527
+mean square error: 23.330000
+mean norm of w: 80.286567
+norm of inc: 0.592209
+mean square error: 26.305000
+mean norm of w: 80.296357
+norm of inc: 0.580629
+mean square error: 24.935000
+mean norm of w: 80.306522
+norm of inc: 0.578988
+mean square error: 21.945000
+mean norm of w: 80.317431
+norm of inc: 0.599017
+mean square error: 20.090000
+mean norm of w: 80.327463
+norm of inc: 0.633537
+mean square error: 20.140000
+mean norm of w: 80.337989
+norm of inc: 0.671866
+mean square error: 23.555000
+mean norm of w: 80.347028
+norm of inc: 0.646483
+mean square error: 27.905000
+mean norm of w: 80.357273
+norm of inc: 0.579287
+mean square error: 29.330000
+mean norm of w: 80.368709
+norm of inc: 0.576463
+mean square error: 24.250000
+mean norm of w: 80.380764
+norm of inc: 0.583238
+mean square error: 21.145000
+mean norm of w: 80.393000
+norm of inc: 0.621154
+mean square error: 19.135000
+mean norm of w: 80.402234
+norm of inc: 0.677072
+mean square error: 21.715000
+mean norm of w: 80.410700
+norm of inc: 0.657071
+mean square error: 25.625000
+mean norm of w: 80.420235
+norm of inc: 0.593631
+mean square error: 27.565000
+mean norm of w: 80.431211
+norm of inc: 0.558325
+mean square error: 27.510000
+mean norm of w: 80.443185
+norm of inc: 0.535951
+mean square error: 25.410000
+mean norm of w: 80.455080
+norm of inc: 0.524781
+mean square error: 24.530000
+mean norm of w: 80.465399
+norm of inc: 0.544997
+mean square error: 25.190000
+mean norm of w: 80.474652
+norm of inc: 0.544070
+mean square error: 25.885000
+mean norm of w: 80.483215
+norm of inc: 0.525981
+mean square error: 25.565000
+mean norm of w: 80.492589
+norm of inc: 0.525228
+mean square error: 22.770000
+mean norm of w: 80.502611
+norm of inc: 0.532632
+mean square error: 21.305000
+mean norm of w: 80.513104
+norm of inc: 0.547433
+mean square error: 19.470000
+mean norm of w: 80.523629
+norm of inc: 0.568488
+mean square error: 22.015000
+mean norm of w: 80.533460
+norm of inc: 0.617246
+mean square error: 24.955000
+mean norm of w: 80.542454
+norm of inc: 0.556898
+mean square error: 26.795000
+mean norm of w: 80.552786
+norm of inc: 0.531115
+mean square error: 25.370000
+mean norm of w: 80.564160
+norm of inc: 0.553399
+mean square error: 21.365000
+mean norm of w: 80.576037
+norm of inc: 0.574644
+mean square error: 17.370000
+mean norm of w: 80.587420
+norm of inc: 0.628867
+mean square error: 18.155000
+mean norm of w: 80.597434
+norm of inc: 0.645336
+mean square error: 19.560000
+mean norm of w: 80.607086
+norm of inc: 0.632395
+mean square error: 19.210000
+mean norm of w: 80.618224
+norm of inc: 0.632606
+mean square error: 17.395000
+mean norm of w: 80.629768
+norm of inc: 0.638702
+epoch 18
+mean square error: 17.540000
+mean norm of w: 80.641242
+norm of inc: 0.632322
+mean square error: 18.205000
+mean norm of w: 80.653105
+norm of inc: 0.621639
+mean square error: 20.720000
+mean norm of w: 80.665145
+norm of inc: 0.601650
+mean square error: 21.585000
+mean norm of w: 80.677471
+norm of inc: 0.573933
+mean square error: 21.545000
+mean norm of w: 80.689999
+norm of inc: 0.593969
+mean square error: 21.790000
+mean norm of w: 80.700737
+norm of inc: 0.601513
+mean square error: 23.390000
+mean norm of w: 80.711077
+norm of inc: 0.561564
+mean square error: 23.545000
+mean norm of w: 80.722457
+norm of inc: 0.574894
+mean square error: 21.490000
+mean norm of w: 80.734239
+norm of inc: 0.574582
+mean square error: 19.150000
+mean norm of w: 80.746227
+norm of inc: 0.577023
+mean square error: 18.360000
+mean norm of w: 80.757333
+norm of inc: 0.629843
+mean square error: 21.730000
+mean norm of w: 80.767453
+norm of inc: 0.613362
+mean square error: 24.670000
+mean norm of w: 80.778165
+norm of inc: 0.562402
+mean square error: 25.270000
+mean norm of w: 80.789767
+norm of inc: 0.572126
+mean square error: 22.835000
+mean norm of w: 80.801430
+norm of inc: 0.579835
+mean square error: 19.000000
+mean norm of w: 80.813436
+norm of inc: 0.619767
+mean square error: 20.095000
+mean norm of w: 80.823696
+norm of inc: 0.626619
+mean square error: 22.765000
+mean norm of w: 80.833829
+norm of inc: 0.626669
+mean square error: 25.725000
+mean norm of w: 80.843558
+norm of inc: 0.577655
+mean square error: 27.690000
+mean norm of w: 80.854542
+norm of inc: 0.565503
+mean square error: 24.735000
+mean norm of w: 80.866587
+norm of inc: 0.581535
+mean square error: 20.795000
+mean norm of w: 80.879774
+norm of inc: 0.573791
+mean square error: 18.165000
+mean norm of w: 80.891395
+norm of inc: 0.643486
+mean square error: 21.600000
+mean norm of w: 80.900818
+norm of inc: 0.620986
+mean square error: 25.300000
+mean norm of w: 80.910971
+norm of inc: 0.576509
+mean square error: 27.205000
+mean norm of w: 80.921897
+norm of inc: 0.549985
+mean square error: 26.935000
+mean norm of w: 80.932665
+norm of inc: 0.536999
+mean square error: 25.415000
+mean norm of w: 80.943599
+norm of inc: 0.536053
+mean square error: 24.745000
+mean norm of w: 80.953734
+norm of inc: 0.542700
+mean square error: 24.555000
+mean norm of w: 80.963568
+norm of inc: 0.528255
+mean square error: 24.525000
+mean norm of w: 80.973213
+norm of inc: 0.530700
+mean square error: 24.475000
+mean norm of w: 80.983027
+norm of inc: 0.512692
+mean square error: 23.225000
+mean norm of w: 80.993460
+norm of inc: 0.518453
+mean square error: 21.560000
+mean norm of w: 81.003981
+norm of inc: 0.539002
+mean square error: 19.425000
+mean norm of w: 81.015093
+norm of inc: 0.562092
+mean square error: 20.955000
+mean norm of w: 81.024884
+norm of inc: 0.623513
+mean square error: 23.365000
+mean norm of w: 81.034436
+norm of inc: 0.575074
+mean square error: 25.490000
+mean norm of w: 81.045624
+norm of inc: 0.532215
+mean square error: 24.765000
+mean norm of w: 81.057984
+norm of inc: 0.541408
+mean square error: 22.085000
+mean norm of w: 81.071037
+norm of inc: 0.588844
+mean square error: 17.195000
+mean norm of w: 81.084353
+norm of inc: 0.636478
+mean square error: 17.270000
+mean norm of w: 81.096438
+norm of inc: 0.645994
+mean square error: 19.395000
+mean norm of w: 81.107945
+norm of inc: 0.617287
+mean square error: 20.445000
+mean norm of w: 81.120012
+norm of inc: 0.619203
+mean square error: 18.510000
+mean norm of w: 81.132936
+norm of inc: 0.623699
+epoch 19
+mean square error: 17.615000
+mean norm of w: 81.145857
+norm of inc: 0.669485
+mean square error: 18.145000
+mean norm of w: 81.157519
+norm of inc: 0.653621
+mean square error: 20.280000
+mean norm of w: 81.170556
+norm of inc: 0.601213
+mean square error: 20.455000
+mean norm of w: 81.183935
+norm of inc: 0.585758
+mean square error: 21.330000
+mean norm of w: 81.196821
+norm of inc: 0.597160
+mean square error: 22.005000
+mean norm of w: 81.209190
+norm of inc: 0.598348
+mean square error: 22.960000
+mean norm of w: 81.221121
+norm of inc: 0.569205
+mean square error: 23.760000
+mean norm of w: 81.233937
+norm of inc: 0.563535
+mean square error: 21.335000
+mean norm of w: 81.247446
+norm of inc: 0.582476
+mean square error: 18.155000
+mean norm of w: 81.261475
+norm of inc: 0.579762
+mean square error: 18.080000
+mean norm of w: 81.274210
+norm of inc: 0.662889
+mean square error: 21.930000
+mean norm of w: 81.285333
+norm of inc: 0.626827
+mean square error: 25.695000
+mean norm of w: 81.297265
+norm of inc: 0.579296
+mean square error: 26.800000
+mean norm of w: 81.310046
+norm of inc: 0.568889
+mean square error: 23.795000
+mean norm of w: 81.323450
+norm of inc: 0.584205
+mean square error: 19.735000
+mean norm of w: 81.336431
+norm of inc: 0.604452
+mean square error: 20.040000
+mean norm of w: 81.348220
+norm of inc: 0.742823
+mean square error: 22.515000
+mean norm of w: 81.356156
+norm of inc: 0.693480
+mean square error: 26.660000
+mean norm of w: 81.366588
+norm of inc: 0.619527
+mean square error: 28.895000
+mean norm of w: 81.378584
+norm of inc: 0.580368
+mean square error: 27.325000
+mean norm of w: 81.390858
+norm of inc: 0.587268
+mean square error: 23.635000
+mean norm of w: 81.403381
+norm of inc: 0.615629
+mean square error: 19.115000
+mean norm of w: 81.415288
+norm of inc: 0.648524
+mean square error: 19.930000
+mean norm of w: 81.424693
+norm of inc: 0.725434
+mean square error: 24.925000
+mean norm of w: 81.431294
+norm of inc: 0.684162
+mean square error: 28.965000
+mean norm of w: 81.439680
+norm of inc: 0.611951
+mean square error: 30.780000
+mean norm of w: 81.450114
+norm of inc: 0.582790
+mean square error: 27.595000
+mean norm of w: 81.461665
+norm of inc: 0.557172
+mean square error: 25.540000
+mean norm of w: 81.473609
+norm of inc: 0.546772
+mean square error: 24.980000
+mean norm of w: 81.483956
+norm of inc: 0.566486
+mean square error: 25.465000
+mean norm of w: 81.492456
+norm of inc: 0.550322
+mean square error: 25.275000
+mean norm of w: 81.500976
+norm of inc: 0.530233
+mean square error: 24.635000
+mean norm of w: 81.509975
+norm of inc: 0.543748
+mean square error: 22.070000
+mean norm of w: 81.519207
+norm of inc: 0.556038
+mean square error: 20.510000
+mean norm of w: 81.529343
+norm of inc: 0.568393
+mean square error: 20.220000
+mean norm of w: 81.538631
+norm of inc: 0.624902
+mean square error: 22.260000
+mean norm of w: 81.546422
+norm of inc: 0.627321
+mean square error: 25.995000
+mean norm of w: 81.555049
+norm of inc: 0.555304
+mean square error: 28.065000
+mean norm of w: 81.565072
+norm of inc: 0.540591
+mean square error: 25.170000
+mean norm of w: 81.575829
+norm of inc: 0.591571
+mean square error: 19.210000
+mean norm of w: 81.586920
+norm of inc: 0.663827
+mean square error: 17.650000
+mean norm of w: 81.597206
+norm of inc: 0.694713
+mean square error: 18.695000
+mean norm of w: 81.606493
+norm of inc: 0.675768
+mean square error: 20.545000
+mean norm of w: 81.616564
+norm of inc: 0.640746
+mean square error: 21.700000
+mean norm of w: 81.627882
+norm of inc: 0.624204
+epoch 20
+mean square error: 19.365000
+mean norm of w: 81.639520
+norm of inc: 0.634254
+mean square error: 17.320000
+mean norm of w: 81.650186
+norm of inc: 0.679652
+mean square error: 19.605000
+mean norm of w: 81.659332
+norm of inc: 0.662080
+mean square error: 21.255000
+mean norm of w: 81.669584
+norm of inc: 0.638694
+mean square error: 21.580000
+mean norm of w: 81.680808
+norm of inc: 0.628888
+mean square error: 21.945000
+mean norm of w: 81.691800
+norm of inc: 0.629817
+mean square error: 22.330000
+mean norm of w: 81.701775
+norm of inc: 0.599240
+mean square error: 25.060000
+mean norm of w: 81.712221
+norm of inc: 0.573860
+mean square error: 23.585000
+mean norm of w: 81.723615
+norm of inc: 0.585264
+mean square error: 20.440000
+mean norm of w: 81.735527
+norm of inc: 0.617241
+mean square error: 19.265000
+mean norm of w: 81.746646
+norm of inc: 0.640097
+mean square error: 21.015000
+mean norm of w: 81.756672
+norm of inc: 0.672903
+mean square error: 25.270000
+mean norm of w: 81.765898
+norm of inc: 0.620019
+mean square error: 28.685000
+mean norm of w: 81.776281
+norm of inc: 0.595845
+mean square error: 26.205000
+mean norm of w: 81.787126
+norm of inc: 0.613355
+mean square error: 21.450000
+mean norm of w: 81.798826
+norm of inc: 0.623398
+mean square error: 19.425000
+mean norm of w: 81.809245
+norm of inc: 0.711766
+mean square error: 21.965000
+mean norm of w: 81.816198
+norm of inc: 0.738443
+mean square error: 26.650000
+mean norm of w: 81.824141
+norm of inc: 0.650028
+mean square error: 29.825000
+mean norm of w: 81.834547
+norm of inc: 0.602148
+mean square error: 28.820000
+mean norm of w: 81.846183
+norm of inc: 0.598291
+mean square error: 24.705000
+mean norm of w: 81.858728
+norm of inc: 0.585374
+mean square error: 21.150000
+mean norm of w: 81.870101
+norm of inc: 0.643210
+mean square error: 21.425000
+mean norm of w: 81.879019
+norm of inc: 0.667949
+mean square error: 23.695000
+mean norm of w: 81.886890
+norm of inc: 0.660597
+mean square error: 26.470000
+mean norm of w: 81.894847
+norm of inc: 0.605776
+mean square error: 29.405000
+mean norm of w: 81.904444
+norm of inc: 0.560418
+mean square error: 28.150000
+mean norm of w: 81.915405
+norm of inc: 0.537841
+mean square error: 25.665000
+mean norm of w: 81.926826
+norm of inc: 0.525114
+mean square error: 25.780000
+mean norm of w: 81.937213
+norm of inc: 0.527430
+mean square error: 24.190000
+mean norm of w: 81.946995
+norm of inc: 0.523780
+mean square error: 24.060000
+mean norm of w: 81.956589
+norm of inc: 0.514919
+mean square error: 23.400000
+mean norm of w: 81.965671
+norm of inc: 0.535158
+mean square error: 21.455000
+mean norm of w: 81.974825
+norm of inc: 0.546232
+mean square error: 19.175000
+mean norm of w: 81.984775
+norm of inc: 0.542765
+mean square error: 20.435000
+mean norm of w: 81.994733
+norm of inc: 0.629370
+mean square error: 22.255000
+mean norm of w: 82.002808
+norm of inc: 0.605696
+mean square error: 26.325000
+mean norm of w: 82.012208
+norm of inc: 0.537722
+mean square error: 26.875000
+mean norm of w: 82.023280
+norm of inc: 0.533276
+mean square error: 24.355000
+mean norm of w: 82.035233
+norm of inc: 0.565289
+mean square error: 19.315000
+mean norm of w: 82.047219
+norm of inc: 0.601656
+mean square error: 16.560000
+mean norm of w: 82.058235
+norm of inc: 0.652889
+mean square error: 17.210000
+mean norm of w: 82.068135
+norm of inc: 0.663936
+mean square error: 19.275000
+mean norm of w: 82.078593
+norm of inc: 0.625634
+mean square error: 20.295000
+mean norm of w: 82.090732
+norm of inc: 0.623067

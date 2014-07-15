@@ -12,15 +12,9 @@ function hidprobs = factor_GBM_hidprobs_outer(outputs,inputs,pars)
 %% FILENAME  : factor_GBM_hidprobs_outer.m
 factors_x = inputs*pars.wxf;
 factors_y = outputs*pars.wyf;
-hidprobs = sigm(bsxfun(@plus, (factors_x.*factors_y)*(pars.whf'), pars.wh'));  
+hidprobs = sigm(bsxfun(@plus, (factors_x.*factors_y)*(pars.whf'), pars.wh'));
 %  [N x numfactor] x [numfactor x nummap]
 end
-
-
-
-
-
-
 
 
 % Created with NEWFCN.m by Frank González-Morphy

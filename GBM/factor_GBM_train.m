@@ -1,4 +1,5 @@
 function pars = factor_GBM_train(varargin)
+
 % FACTOR_GBM_TRAIN ...
 %
 %   a MATLAB implementation of Roland's CPU GBM.
@@ -122,11 +123,13 @@ elseif isequal(pars.zeromask,'quadrature') % every hidden unit is connected to e
 end
     
 
-display(pars);
-pause;
+% display(pars);
+% pause;
 
 for epoch = 1:pars.numepoch
     fprintf('epoch %d\n',epoch);
+    pars.sqerror_now = [];
+    
     if ~pars.batchOrderFixed
         kk = randperm(N);
     else
@@ -147,6 +150,12 @@ for epoch = 1:pars.numepoch
         end
     end
     
+    pars.mean_sqerror(end+1) = mean(pars.sqerror_now);
+    if pars.display
+        set(0, 'CurrentFigure', pars.display_figure);
+        plot(pars.mean_sqerror);
+        pause(0.05);
+    end
 end
 
 if isfield(pars,'hids')
@@ -243,8 +252,9 @@ end
         data.hidprobs = pars.hids;
         
         if pars.verbose % output recon and norm
-            fprintf('mean square error: %f\n', sum( (datastates(:)-batch_y(:)).^2) / pars.batchsize   );
-            fprintf('mean norm of w: %f\n', norm([pars.wxf(:); pars.wyf(:); pars.whf(:); pars.wh(:); pars.wy(:)]));
+            pars.sqerror_now(end+1) = sum( (datastates(:)-batch_y(:)).^2) / pars.batchsize;
+            fprintf('mean square error: %f ',  pars.sqerror_now(end)  );
+            fprintf('mean norm of w: %f ', norm([pars.wxf(:); pars.wyf(:); pars.whf(:); pars.wh(:); pars.wy(:)]));
         end
         
     end
@@ -314,14 +324,13 @@ defaultPars = struct('numin',[],'numout',[],'nummap',256,'numfactors',1024, ...
     'initMultiplierW',0.05,'batchOrderFixed',false,'weightPenaltyL2',0.001,...
     'everySave',1,'wxf',[],'wyf',[],'whf',[],'wy',[],'wh',[],...
     'incMax',inf,'numbatches',[],'visType','binary','saveFile',true,'zeromaskOriginal',[],...
-    'zeromaskAdditional','false');
+    'zeromaskAdditional','false',...
+    'display', false, 'display_figure', [], ...
+    'mean_sqerror', []...
+    );
+    %the last row is added by Chengxu Zhuang
 % seed is random seed. (twister).
 end
-
-
-
-
-
 
 
 
