@@ -1,0 +1,12 @@
+{Error using <a href="matlab:helpUtils.errorDocCallback('f3gbm_train', 'd:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_train.m', 9)" style="font-weight:bold">f3gbm_train</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_train.m',9,0)">line 9</a>)
+Assertion failed.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('temp_hiear_train', 'd:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_hiear_train.m', 63)" style="font-weight:bold">temp_hiear_train</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_hiear_train.m',63,0)">line 63</a>)
+        layer1_13_pars     = f3gbm_train(layer1_13_pars,...
+
+Error in <a href="matlab:helpUtils.errorDocCallback('temp_supresol', 'd:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_supresol.m', 16)" style="font-weight:bold">temp_supresol</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_supresol.m',16,0)">line 16</a>)
+    pars    = temp_hiear_train(pars);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('test_speed', 'd:\matlab2012a\GBMs\from_ym\temp_Hiear\test_speed.m', 1)" style="font-weight:bold">test_speed</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\temp_Hiear\test_speed.m',1,0)">line 1</a>)
+temp_supresol('hiear');} 
+test_speed

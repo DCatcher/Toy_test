@@ -1,0 +1,22 @@
+{Error using <a href="matlab:helpUtils.errorDocCallback('plus')" style="font-weight:bold"> + </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('f3gbm_train/f3gbm_grad', 'd:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_train.m', 152)" style="font-weight:bold">f3gbm_train/f3gbm_grad</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_train.m',152,0)">line 152</a>)
+        g_wxf = g_wxf + X'*((Y*gbm.wyf).*(H*gbm.whf))/gbm.batchsize +
+        weightcostgrad_x;
+
+Error in <a href="matlab:helpUtils.errorDocCallback('f3gbm_train/f3gbm_train_inner', 'd:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_train.m', 63)" style="font-weight:bold">f3gbm_train/f3gbm_train_inner</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_train.m',63,0)">line 63</a>)
+        delta = gbm.momentum*delta - gbm.stepsize*f3gbm_grad();
+
+Error in <a href="matlab:helpUtils.errorDocCallback('f3gbm_train', 'd:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_train.m', 30)" style="font-weight:bold">f3gbm_train</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_train.m',30,0)">line 30</a>)
+        f3gbm_train_inner();
+
+Error in <a href="matlab:helpUtils.errorDocCallback('temp_hiear_train', 'd:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_hiear_train.m', 67)" style="font-weight:bold">temp_hiear_train</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_hiear_train.m',67,0)">line 67</a>)
+        layer1_13_pars     = f3gbm_train(layer1_13_pars,...
+
+Error in <a href="matlab:helpUtils.errorDocCallback('temp_supresol', 'd:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_supresol.m', 16)" style="font-weight:bold">temp_supresol</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_supresol.m',16,0)">line 16</a>)
+    pars    = temp_hiear_train(pars);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('test_speed', 'd:\matlab2012a\GBMs\from_ym\temp_Hiear\test_speed.m', 1)" style="font-weight:bold">test_speed</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\temp_Hiear\test_speed.m',1,0)">line 1</a>)
+temp_supresol('hiear');} 
+test_speed

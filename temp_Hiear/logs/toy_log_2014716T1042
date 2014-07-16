@@ -1,0 +1,15 @@
+{Error using <a href="matlab:helpUtils.errorDocCallback('parseArgs', 'd:\matlab2012a\GBMs\modified_library_suite\util\parseArgs.m', 118)" style="font-weight:bold">parseArgs</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\modified_library_suite\util\parseArgs.m',118,0)">line 118</a>)
+Unknown named parameter: numepoch
+
+Error in <a href="matlab:helpUtils.errorDocCallback('f3gbm_setup', 'd:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_setup.m', 13)" style="font-weight:bold">f3gbm_setup</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\GBM_mm\f3gbm_setup.m',13,0)">line 13</a>)
+gbm = parseArgs([varargin] ,gbm);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('temp_hiear_train', 'd:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_hiear_train.m', 51)" style="font-weight:bold">temp_hiear_train</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_hiear_train.m',51,0)">line 51</a>)
+        layer1_13_pars     = f3gbm_setup(pars.f1_size, ... %n_x
+
+Error in <a href="matlab:helpUtils.errorDocCallback('temp_supresol', 'd:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_supresol.m', 16)" style="font-weight:bold">temp_supresol</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\temp_Hiear\temp_supresol.m',16,0)">line 16</a>)
+    pars    = temp_hiear_train(pars);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('test_speed', 'd:\matlab2012a\GBMs\from_ym\temp_Hiear\test_speed.m', 1)" style="font-weight:bold">test_speed</a> (<a href="matlab: opentoline('d:\matlab2012a\GBMs\from_ym\temp_Hiear\test_speed.m',1,0)">line 1</a>)
+temp_supresol('hiear');} 
+test_speed

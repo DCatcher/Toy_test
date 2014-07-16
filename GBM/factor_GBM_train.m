@@ -103,10 +103,6 @@ elseif isequal(pars.zeromask,'quadrature') % every hidden unit is connected to e
             = sub2ind(size(pars.whf),repmat(iMap,1,pars.numfactors-2),setdiff(1:pars.numfactors,[2*iMap-1, 2*iMap]));
     end
     
-    
-    
-    
-    
     pars.whf(zeroIndex) = 0; % test passed.
     
     if pars.zeromaskAdditional
@@ -328,7 +324,7 @@ defaultPars = struct('numin',[],'numout',[],'nummap',256,'numfactors',1024, ...
     'display', false, 'display_figure', [], ...
     'mean_sqerror', []...
     );
-    %the last row is added by Chengxu Zhuang
+    %the last 2 rows are added by Chengxu Zhuang to get plot display
 % seed is random seed. (twister).
 end
 

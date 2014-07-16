@@ -7,7 +7,7 @@ randn('state', 0);
 
 file_name       = 'toy_data';
 data_length     = 10000;
-input_size      = 25;
+input_size      = 15;
 output_size     = 10;
 ori_start       = (input_size-output_size)/2;
 
