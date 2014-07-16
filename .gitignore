@@ -1,5 +1,5 @@
 .gitignore
 big_data/
-temp_Hiear/
+temp_Hiear/**/*.mat
 *.swp
 *log*
