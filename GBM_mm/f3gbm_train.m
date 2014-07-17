@@ -66,18 +66,47 @@ end
         delta(gbm.zeromask) = 0;
         
         % stablize the things
-        if norm(delta) > gbm.deltaMax
-            delta = delta/ninc * gbm.deltaMax;
+        dwxf        = delta(d_pos(1)+1:d_pos(2));
+        max_ndwxf   = gbm.deltaMax*norm(gbm.wxf);
+        if norm(dwxf) > max_ndwxf
+            dwxf    = dwxf/norm(dwxf) * (max_ndwxf);
         end
+        
+        dwyf        = delta(d_pos(2)+1:d_pos(3));
+        max_ndwyf   = gbm.deltaMax*norm(gbm.wyf);
+        if norm(dwyf) > max_ndwyf
+            dwyf    = dwyf/norm(dwyf) * (max_ndwyf);
+        end
+        
+        dwhf        = delta(d_pos(3)+1:d_pos(4));
+        max_ndwhf   = gbm.deltaMax*norm(gbm.whf);
+        if norm(dwhf) > max_ndwxf
+            dwhf    = dwhf/norm(dwhf) * (max_ndwhf);
+        end
+        
+        dwy         = delta(d_pos(4)+1:d_pos(5));
+        max_ndwy    = gbm.deltaMax*norm(gbm.wy);
+        if norm(dwy) > max_ndwy
+            dwy    = dwy/norm(dwy) * (max_ndwy);
+        end
+        
+        dwh         = delta(d_pos(5)+1:d_pos(6));
+        max_ndwh    = gbm.deltaMax*norm(gbm.wh);
+        if norm(dwh) > max_ndwh
+            dwh    = dwh/norm(dwh) * (max_ndwh);
+        end        
+%         if norm(delta) > gbm.deltaMax
+%             delta = delta/norm(delta) * gbm.deltaMax;
+%         end
         
         assert(all(~isnan(delta)));
         
         %add separately
-        gbm.wxf(:) = gbm.wxf(:) + delta(d_pos(1)+1:d_pos(2));
-        gbm.wyf(:) = gbm.wyf(:) + delta(d_pos(2)+1:d_pos(3));
-        gbm.whf(:) = gbm.whf(:) + delta(d_pos(3)+1:d_pos(4));
-        gbm.wy(:)  = gbm.wy(:)  + delta(d_pos(4)+1:d_pos(5));
-        gbm.wh(:)  = gbm.wh(:)  + delta(d_pos(5)+1:d_pos(6));
+        gbm.wxf(:) = gbm.wxf(:) + dwxf;
+        gbm.wyf(:) = gbm.wyf(:) + dwyf;
+        gbm.whf(:) = gbm.whf(:) + dwhf;
+        gbm.wy(:)  = gbm.wy(:)  + dwy;
+        gbm.wh(:)  = gbm.wh(:)  + dwh;
         
     end
 
