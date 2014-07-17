@@ -7,8 +7,8 @@ randn('state', 0);
 
 file_name       = 'toy_data';
 data_length     = 10000;
-input_size      = 13;
-output_size     = 10;
+input_size      = 23;
+output_size     = 20;
 ori_start       = (input_size-output_size)/2;
 
 frame1_images    = double((rand(data_length, input_size, input_size)<0.5));
