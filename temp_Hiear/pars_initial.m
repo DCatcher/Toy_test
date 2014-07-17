@@ -21,16 +21,17 @@ if strcmp(method, 'hiear')==1
     %   frame3_images:   [data_length, output_size*output_size]
     
     %layer1 is for learning the transformations of two images
-    pars.layer1_numfactors         = 400;
+    pars.layer1_numfactors         = 700;
     pars.layer1_batchsize          = 200;
     pars.layer1_batchOrderFixed    = true;
-    pars.layer1_nummap             = 300;
+    pars.layer1_nummap             = 400;
     pars.layer1_numepoch           = 300;
     pars.layer1_save               = [pars.layer_pre 'toy_layer1_' pars.time_now];
     
     pars.layer1_using_existed_data      = false;
-    pars.layer1_from_existed_data       = false;
-    pars.layer1_existed_data            = [pars.layer_pre 'toy_layer1_2014715T1558.mat'];
+    pars.layer1_from_existed_data       = true;
+    pars.layer1_existed_data            = [pars.layer_pre 'toy_layer1_2014717T1150.mat'];
+    pars.layer1_weightPenaltyL2         = 0;
     
     pars.layer1_13_display              = true;
     pars.layer1_12_display              = true;
@@ -40,8 +41,8 @@ if strcmp(method, 'hiear')==1
     end
     
     if pars.layer1_12_display
-%         pars.layer1_12_figure   = figure;
-        pars.layer1_12_figure   = pars.layer1_13_figure;
+        pars.layer1_12_figure   = figure;
+%         pars.layer1_12_figure   = pars.layer1_13_figure;
     end
     
     pars.layer1_13_validation           = true;
@@ -59,8 +60,8 @@ if strcmp(method, 'hiear')==1
     end
     
     if pars.layer1_12_validation
-%         pars.layer1_12_validation_figure    = figure;
-        pars.layer1_12_validation_figure    = pars.layer1_13_validation_figure;
+        pars.layer1_12_validation_figure    = figure;
+%         pars.layer1_12_validation_figure    = pars.layer1_13_validation_figure;
 %         pars.layer1_12_validation_set_x     = pars.valid_data_f1;
 %         pars.layer1_12_validation_set_y     = pars.valid_data_f2;
     end

@@ -2,3 +2,7 @@ big_data/
 .gitignore
 *.swp
 temp_Hiear/test_speed.m
+*~
+*log*
+*.mat
+*.asv

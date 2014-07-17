@@ -1,6 +1,6 @@
 function temp_supresol(method)
 
-addpath(genpath('d:\matlab2012a\GBMs\'));
+%addpath(genpath('d:\matlab2012a\GBMs\'));
 close all
 rand('state', 0);
 randn('state', 0);
