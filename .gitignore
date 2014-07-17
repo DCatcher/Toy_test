@@ -1,6 +1,8 @@
-.gitignore
 big_data/
-temp_Hiear/**/*.mat
 temp_Hiear/test_speed.m
 *.swp
+*~
 *log*
+*.mat
+*.asv
+temp_Hiear/toy_data*
