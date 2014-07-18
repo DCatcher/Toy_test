@@ -102,3 +102,79 @@ end
 
 pars.layer1_13_pars     = layer1_13_pars;
 pars.layer1_12_pars     = layer1_12_pars;
+
+if pars.layer2_from_existed_data || pars.layer2_using_existed_data
+    load(pars.layer2_existed_data);
+end
+
+if ~pars.layer2_using_existed_data
+    wxf         = [];
+    wyf         = [];
+    whf         = [];
+    wy          = [];
+    wh          = [];
+    
+    
+    if pars.layer2_from_existed_data
+        wxf     = layer2_pars.wxf;
+        wyf     = layer2_pars.wyf;
+        whf     = layer2_pars.whf;
+        wy      = layer2_pars.wy;
+        wh      = layer2_pars.wh;
+    end
+    
+   
+    if strcmp(pars.gbm_who,'mm')==1    
+        pars.layer2_input           = f3gbm_gethidden(pars.layer1_13_pars,...
+                                    pars.train_data_f1,...
+                                    pars.train_data_f3);
+        pars.layer2_output          = f3gbm_gethidden(pars.layer1_12_pars,...
+                                    pars.train_data_f1,...
+                                    pars.train_data_f2);
+                                
+        pars.layer2_validation_input   = f3gbm_gethidden(pars.layer1_13_pars,...
+                                    pars.valid_data_f1,...
+                                    pars.valid_data_f3);
+        pars.layer2_validation_output  = f3gbm_gethidden(pars.layer1_12_pars,...
+                                    pars.valid_data_f1,...
+                                    pars.valid_data_f2);
+                                
+        if pars.layer2_display
+            pars.layer2_figure   = figure;
+        end                               
+        
+        if pars.layer2_validation && pars.layer2_display
+            pars.layer2_validation_figure    = figure;
+        end
+        
+        layer2_pars     = f3gbm_setup(size(pars.layer2_input, 2), ... %n_x
+                                    size(pars.layer2_output, 2), ... %n_y
+                                    pars.layer2_nummap, ... %n_h
+                                    pars.layer2_numfactors, ... %n_f
+                                    'batchsize', pars.layer2_batchsize, ...
+                                    'batchOrderFixed', pars.layer2_batchOrderFixed,...
+                                    'n_epoch', pars.layer2_numepoch, ...
+                                    'wxf', wxf, 'wyf', wyf, 'whf', whf, ...
+                                    'wy', wy, 'wh', wh, ... 
+                                    'display', pars.layer2_display, ...
+                                    'display_figure', pars.layer2_figure, ...
+                                    'validate', pars.layer2_validation, ...
+                                    'validation_set_x', pars.layer2_validation_input, ...
+                                    'validation_set_y', pars.layer2_validation_output, ...
+                                    'validation_figure', pars.layer2_validation_figure, ...
+                                    'weightPenaltyL2', pars.layer2_weightPenaltyL2,...
+									'deltaMax', pars.layer2_deltaMax, ...
+                                    'visType', 'gaussian', ...
+                                    'saveFile',false, 'seed', 0);
+        layer2_pars     = f3gbm_train(layer2_pars,...
+                                    pars.layer2_input,...
+                                    pars.layer2_output);
+    else
+        fprintf('I have not written it yet!\n');
+        return;
+    end
+    
+    save(pars.layer2_save, 'layer2_pars'); 
+end
+
+pars.layer2_pars        = layer2_pars;

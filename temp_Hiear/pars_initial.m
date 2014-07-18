@@ -34,8 +34,8 @@ if strcmp(method, 'hiear')==1
     pars.layer1_weightPenaltyL2         = 0.001;
 	pars.layer1_deltaMax 				= 0.04;
     
-    pars.layer1_13_display              = true;
-    pars.layer1_12_display              = true;
+    pars.layer1_13_display              = false;
+    pars.layer1_12_display              = false;
     
     pars.layer1_13_validation           = true;
     pars.layer1_12_validation           = true;
@@ -51,11 +51,28 @@ if strcmp(method, 'hiear')==1
     %   layer1_12_pars:     pars for 12 transformations
     
     %layer2 is for learning the transformations of transformations
-    pars.layer2_numfactors         = 200;
-    pars.layer2_batchsize          = 100;
+    pars.layer2_numfactors         = 400;
+    pars.layer2_batchsize          = 200;
     pars.layer2_batchOrderFixed    = true;
-    pars.layer2_nummap             = 100;
+    pars.layer2_nummap             = 300;
+    pars.layer2_numepoch           = 300;
     pars.layer2_save               = [pars.layer_pre 'toy_layer2_' pars.time_now];
+    
+    pars.layer2_input              = [];
+    pars.layer2_output             = [];
+    pars.layer2_validation_input   = [];
+    pars.layer2_validation_output  = [];
+    
+    pars.layer2_using_existed_data      = false;
+    pars.layer2_from_existed_data       = false;
+    pars.layer2_existed_data            = [];
+    pars.layer2_weightPenaltyL2         = 0.001;
+	pars.layer2_deltaMax 				= 0.04;
+    pars.layer2_display                 = false;
+    pars.layer2_validation              = true;
     %layer2_save file should contain:
     %   layer2_pars:    pars for transformations of transformations
+    
+    pars.layer1_13_pars     = [];
+    pars.layer1_12_pars     = [];
 end
