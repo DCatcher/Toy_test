@@ -93,7 +93,10 @@ if ~pars.layer1_using_existed_data
         layer1_12_pars     = f3gbm_train(layer1_12_pars,...
                                     pars.train_data_f1,...
                                     pars.train_data_f2);                                
+                                
+        fprintf('layer1_13 validation error: %f, layer1_12: %f\n', layer1_13_pars.validation_mean_sqerror(end), layer1_12_pars.validation_mean_sqerror(end));
     end
+    
     save(pars.layer1_save, 'layer1_13_pars', 'layer1_12_pars'); 
 end
 
