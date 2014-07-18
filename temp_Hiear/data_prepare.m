@@ -1,7 +1,30 @@
-%% prepare the train_data, valid_data
+%% prepare the train_data, valid_data; do some initials, too
 function pars = data_prepare(pars)
 
 load(pars.data)
+
+if pars.layer1_13_display
+    pars.layer1_13_figure   = figure;
+end
+
+if pars.layer1_12_display
+    pars.layer1_12_figure   = figure;
+%         pars.layer1_12_figure   = pars.layer1_13_figure;
+end
+
+if pars.layer1_13_validation && pars.layer1_13_display
+    pars.layer1_13_validation_figure    = figure;
+%         pars.layer1_13_validation_set_x     = pars.valid_data_f1;
+%         pars.layer1_13_validation_set_y     = pars.valid_data_f3;
+end
+
+if pars.layer1_12_validation && pars.layer1_12_display
+    pars.layer1_12_validation_figure    = figure;
+%         pars.layer1_12_validation_figure    = pars.layer1_13_validation_figure;
+%         pars.layer1_12_validation_set_x     = pars.valid_data_f1;
+%         pars.layer1_12_validation_set_y     = pars.valid_data_f2;
+end
+    
 
 pars.length     = length(frame1_images);
 pars.f1_size    = floor(sqrt(size(frame1_images, 2)));

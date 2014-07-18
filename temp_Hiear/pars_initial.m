@@ -37,15 +37,6 @@ if strcmp(method, 'hiear')==1
     pars.layer1_13_display              = true;
     pars.layer1_12_display              = true;
     
-    if pars.layer1_13_display
-        pars.layer1_13_figure   = figure;
-    end
-    
-    if pars.layer1_12_display
-        pars.layer1_12_figure   = figure;
-%         pars.layer1_12_figure   = pars.layer1_13_figure;
-    end
-    
     pars.layer1_13_validation           = true;
     pars.layer1_12_validation           = true;
     
@@ -53,20 +44,8 @@ if strcmp(method, 'hiear')==1
     pars.layer1_13_validation_set_y     = [];
     pars.layer1_12_validation_set_x     = [];
     pars.layer1_12_validation_set_y     = [];    
-    
-    if pars.layer1_13_validation
-        pars.layer1_13_validation_figure    = figure;
-%         pars.layer1_13_validation_set_x     = pars.valid_data_f1;
-%         pars.layer1_13_validation_set_y     = pars.valid_data_f3;
-    end
-    
-    if pars.layer1_12_validation
-        pars.layer1_12_validation_figure    = figure;
-%         pars.layer1_12_validation_figure    = pars.layer1_13_validation_figure;
-%         pars.layer1_12_validation_set_x     = pars.valid_data_f1;
-%         pars.layer1_12_validation_set_y     = pars.valid_data_f2;
-    end
-    
+
+
     %layer1_save file should contain:
     %   layer1_13_pars:     pars for 13 transformations
     %   layer1_12_pars:     pars for 12 transformations
