@@ -32,7 +32,7 @@ if strcmp(method, 'hiear')==1
     pars.layer1_from_existed_data       = false;
     pars.layer1_existed_data            = [pars.layer_pre 'toy_layer1_2014717T1150.mat'];
     pars.layer1_weightPenaltyL2         = 0.001;
-	pars.layer1_deltaMax 				= 0.02;
+	pars.layer1_deltaMax 				= 0.04;
     
     pars.layer1_13_display              = true;
     pars.layer1_12_display              = true;

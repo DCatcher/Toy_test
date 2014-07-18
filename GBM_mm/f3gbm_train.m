@@ -186,7 +186,7 @@ end
         
         if gbm.verbose % print reconstruction error and the norm of weights
             gbm.sqerror_now(end+1) = sum((Y(:)-batch_y(:)).^2)/gbm.batchsize;
-            fprintf('#epoch %d# sum square error: %f , norm of w: %f\n', epoch, gbm.sqerror_now(end),...
+            fprintf('#epoch %d# sum square error: %f : %f , norm of w: %f\n', epoch, gbm.sqerror_now(end), gbm.validation_mean_sqerror(end), ...
                 norm([gbm.wxf(:); gbm.wyf(:); gbm.whf(:); gbm.wh(:); gbm.wy(:)]));
         end
         
